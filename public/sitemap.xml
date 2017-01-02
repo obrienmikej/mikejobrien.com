@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</loc>
-    <lastmod>2017-01-01T18:12:10-08:00</lastmod>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2017/01-02-2017/</loc>
+    <lastmod>2017-01-02T12:29:57-08:00</lastmod>
   </url>
   
   <url>
@@ -12,19 +12,69 @@
   </url>
   
   <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016-2/</loc>
+    <lastmod>2016-12-17T10:09:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016/</loc>
+    <lastmod>2016-12-17T09:17:55-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/11-23-2016/</loc>
     <lastmod>2016-11-23T18:14:26-08:00</lastmod>
   </url>
   
   <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</loc>
+    <lastmod>2016-10-28T18:12:10-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/129b/</loc>
+    <lastmod>2016-12-17T10:09:20-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/aws/</loc>
+    <lastmod>2016-12-23T19:00:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/certification/</loc>
+    <lastmod>2016-12-23T19:00:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/</loc>
-    <lastmod>2017-01-01T18:12:10-08:00</lastmod>
+    <lastmod>2017-01-02T12:29:57-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/motocross/</loc>
+    <lastmod>2016-12-17T10:09:20-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/</loc>
-    <lastmod>2017-01-01T18:12:10-08:00</lastmod>
+    <lastmod>2017-01-02T12:29:57-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/staticgen/</loc>
+    <lastmod>2017-01-02T12:29:57-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -7,40 +7,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 18:12:10 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2017 12:29:57 -0800</lastBuildDate>
     <atom:link href="http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>AWS Certified Solutions Architect Associate</title>
-      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</link>
-      <pubDate>Sun, 01 Jan 2017 18:12:10 -0800</pubDate>
+      <title>Configured Hugo</title>
+      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2017/01-02-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 12:29:57 -0800</pubDate>
       
-      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/obrienmikej/amazon-aws-playground/blob/master/certification/aws_certified_solutions_architect_associate/aws-asa-23200.png&#34;&gt;https://github.com/obrienmikej/amazon-aws-playground/blob/master/certification/aws_certified_solutions_architect_associate/aws-asa-23200.png&lt;/a&gt;&lt;/p&gt;
+      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2017/01-02-2017/</guid>
+      <description>&lt;p&gt;Installed and setup personal website today using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is a static site generator written in Go.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>AWS SysOps Administrator Associate</title>
+      <title>AWS Certified SysOps Administrator</title>
       <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-23-2016/</link>
       <pubDate>Fri, 23 Dec 2016 19:00:17 -0800</pubDate>
       
       <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-23-2016/</guid>
-      <description>&lt;p&gt;Certificate number 5917.&lt;/p&gt;
+      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-sysops-admin-associate/&#34;&gt;AWS Certified SysOps Administrator - Associate Level&lt;/a&gt; exam today.  Certificate number 5917.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_asoa_5917.png&#34; alt=&#34;Yes&#34; style=&#34;width:800px;height:500px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_asoa_5917.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>AWS Developer Associate</title>
+      <title>Raw GoPro from Club Moto</title>
+      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016-2/</link>
+      <pubDate>Sat, 17 Dec 2016 10:09:20 -0800</pubDate>
+      
+      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016-2/</guid>
+      <description>&lt;p&gt;Unedited and Raw GoPro files from 12/17/2016 at Club Moto in Livermore, CA
+&lt;br&gt;&lt;/p&gt;
+
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0108.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;br&gt;
+
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0109.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spinning a lap at Club Moto</title>
+      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016/</link>
+      <pubDate>Sat, 17 Dec 2016 09:17:55 -0800</pubDate>
+      
+      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016/</guid>
+      <description>&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RT87e75ocY8&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AWS Certified Developer</title>
       <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/11-23-2016/</link>
       <pubDate>Wed, 23 Nov 2016 18:14:26 -0800</pubDate>
       
       <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/11-23-2016/</guid>
-      <description>&lt;p&gt;Certificate number 6438.&lt;/p&gt;
+      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-developer-associate/&#34;&gt;AWS Certified Developer - Associate Level&lt;/a&gt; exam today.  Certificate number 6438.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_adev_6438.png&#34; alt=&#34;Yes&#34; style=&#34;width:800px;height:500px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_adev_6438.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AWS Certified Solutions Architect</title>
+      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</link>
+      <pubDate>Fri, 28 Oct 2016 18:12:10 -0800</pubDate>
+      
+      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</guid>
+      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-solutions-architect-associate/&#34;&gt;AWS Certified Solutions Architect - Associate Level&lt;/a&gt; exam today.  Certificate number 23200.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_asa_23200.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

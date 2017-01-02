@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motocross on Mike J. O&#39;Brien&#39;s blog</title>
+    <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/motocross/index.xml</link>
+    <description>Recent content in Motocross on Mike J. O&#39;Brien&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <atom:link href="http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/motocross/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raw GoPro from Club Moto</title>
+      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016-2/</link>
+      <pubDate>Sat, 17 Dec 2016 10:09:20 -0800</pubDate>
+      
+      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016-2/</guid>
+      <description>&lt;p&gt;Unedited and Raw GoPro files from 12/17/2016 at Club Moto in Livermore, CA
+&lt;br&gt;&lt;/p&gt;
+
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0108.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;br&gt;
+
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0109.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spinning a lap at Club Moto</title>
+      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016/</link>
+      <pubDate>Sat, 17 Dec 2016 09:17:55 -0800</pubDate>
+      
+      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016/</guid>
+      <description>&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RT87e75ocY8&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

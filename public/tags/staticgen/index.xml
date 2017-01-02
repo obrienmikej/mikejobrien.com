@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staticgen on Mike J. O&#39;Brien&#39;s blog</title>
+    <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/staticgen/index.xml</link>
+    <description>Recent content in Staticgen on Mike J. O&#39;Brien&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <atom:link href="http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/tags/staticgen/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configured Hugo</title>
+      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2017/01-02-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 12:29:57 -0800</pubDate>
+      
+      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2017/01-02-2017/</guid>
+      <description>&lt;p&gt;Installed and setup personal website today using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is a static site generator written in Go.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
