@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</loc>
+    <lastmod>2017-01-01T18:12:10-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-23-2016/</loc>
+    <lastmod>2016-12-23T19:00:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/11-23-2016/</loc>
+    <lastmod>2016-11-23T18:14:26-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/</loc>
+    <lastmod>2017-01-01T18:12:10-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/</loc>
+    <lastmod>2017-01-01T18:12:10-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
