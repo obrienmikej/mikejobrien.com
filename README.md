@@ -1,2 +1,2 @@
 # mikejobrien.com
-My static website built using Hugo
+My personal / static website built using Hugo.  Hosted on AWS S3.
