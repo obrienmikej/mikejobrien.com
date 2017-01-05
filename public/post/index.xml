@@ -1,89 +1,177 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mike J. O&#39;Brien&#39;s blog</title>
-    <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/index.xml</link>
-    <description>Recent content in Posts on Mike J. O&#39;Brien&#39;s blog</description>
+    <title>Posts on Mike J. O&#39;Brien</title>
+    <link>http://mikejobrien.com/post/index.xml</link>
+    <description>Recent content in Posts on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <lastBuildDate>Mon, 02 Jan 2017 12:29:57 -0800</lastBuildDate>
-    <atom:link href="http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://mikejobrien.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Configured Hugo</title>
-      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2017/01-02-2017/</link>
-      <pubDate>Mon, 02 Jan 2017 12:29:57 -0800</pubDate>
+      <link>http://mikejobrien.com/2017/01/configured-hugo/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2017/01-02-2017/</guid>
-      <description>&lt;p&gt;Installed and setup personal website today using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is a static site generator written in Go.&lt;/p&gt;
+      <guid>http://mikejobrien.com/2017/01/configured-hugo/</guid>
+      <description>&lt;p&gt;Migrated, installed and setup personal website today using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is a static site generator written in Go.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My 2016 Book List</title>
+      <link>http://mikejobrien.com/2016/12/my-2016-book-list/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikejobrien.com/2016/12/my-2016-book-list/</guid>
+      <description>&lt;p&gt;Books I read in 2016.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;The Phoenix Project
+&lt;br&gt;
+A Novel About IT, DevOps, and Helping Your Business Win
+&lt;br&gt;
+Written by: Gene Kim , Kevin Behr , George Spafford
+&lt;br&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00AZRBLHO&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_rviByb73EMP0W&#34; &gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The Like Switch
+&lt;br&gt;
+An Ex-FBI Agent&amp;rsquo;s Guide to Influencing, Attracting, and Winning People Over
+&lt;br&gt;
+Written by: Jack Schafer , Marvin Karlins
+&lt;br&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00IWTWO8C&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_DziBybR4MHZQE&#34; &gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Team of Teams
+&lt;br&gt;
+New Rules of Engagement for a Complex World
+&lt;br&gt;
+Written by: General Stanley McChrystal , Tantum Collins , David Silverman , Chris Fussell
+&lt;br&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00KWG9OF4&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_WBiBybS6NFEFR&#34; &gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The Essential Guide for Hiring &amp;amp; Getting Hired
+&lt;br&gt;
+Performance-based Hiring Series
+&lt;br&gt;
+Written by: Lou Adler
+&lt;br&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00B9JZMKE&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_GDiBybXJ4NWA0&#34; &gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;How to Win Friends &amp;amp; Influence People
+&lt;br&gt;
+Written by: Dale Carnegie
+&lt;br&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01N1F24U7&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_9HiByb90M9SPV&#34; &gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/0316256579/ref=cm_sw_r_tw_dp_x_cFiBybTZ9XYJT&#34;&gt;Presence&lt;/a&gt;
+&lt;br&gt;
+Bringing Your Boldest Self to Your Biggest Challenges
+&lt;br&gt;
+Written by: Amy Cuddy
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1483554018&amp;amp;sr=8-1&amp;amp;keywords=site+reliability&#34;&gt;Site Reliability Engineering&lt;/a&gt;
+&lt;br&gt;
+How Google Runs Production Systems
+&lt;br&gt;
+Written by: Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My 2016 Podcast List</title>
+      <link>http://mikejobrien.com/2016/12/my-2016-podcast-list/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikejobrien.com/2016/12/my-2016-podcast-list/</guid>
+      <description>
+
+&lt;h3 id=&#34;unordered-itunes-podcast-library&#34;&gt;Unordered iTunes podcast library&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/the-food-fight-show/id495577922?mt=2&#34;&gt;The Food Fight Show&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/aws-re-invent-2015/id1041854841?mt=2&#34;&gt;AWS re:Invent 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/a16z/id842818711?mt=2&#34;&gt;a16z&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/tedtalks-health/id470623173?mt=2&#34;&gt;TedTalks Health&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/tedtalks-business/id470622782?mt=2&#34;&gt;TedTalks Business&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/tedtalks-technology/id470624027?mt=2&#34;&gt;TedTalks Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&#34;&gt;Arrested DevOps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/cloudcast-.net-weekly-cloud/id417826820?mt=2&#34;&gt;The CloudCast.net Weekly Cloud Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/the-ship-show/id552263516?mt=2&#34;&gt;The Ship Show&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/manager-tools/id74198801?mt=2&#34;&gt;Manager Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/testtalks-automation-awesomeness/id826722706?mt=2&#34;&gt;TestTalks | Automation Awesomeness Helping You Succeed With Test Automation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://feeds.feedburner.com/pivot-podcast&#34;&gt;Pivot: Code the Industrial Internet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://feeds.feedburner.com/GcpPodcast&#34;&gt;Google Cloud Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s.ch9.ms/Shows/Cloud+Cover/feed/mp4high&#34;&gt;Microsoft Azure Cloud Cover Show channel 9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>AWS Certified SysOps Administrator</title>
-      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-23-2016/</link>
-      <pubDate>Fri, 23 Dec 2016 19:00:17 -0800</pubDate>
+      <link>http://mikejobrien.com/2016/12/aws-certified-sysops-administrator/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-23-2016/</guid>
-      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-sysops-admin-associate/&#34;&gt;AWS Certified SysOps Administrator - Associate Level&lt;/a&gt; exam today.  Certificate number 5917.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_asoa_5917.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
+      <guid>http://mikejobrien.com/2016/12/aws-certified-sysops-administrator/</guid>
+      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-sysops-admin-associate/&#34;&gt;AWS Certified SysOps Administrator - Associate Level&lt;/a&gt; exam today.  Certificate number 5917.
+&lt;img src=&#34;http://mikejobrien.com/images/aws_asoa_5917.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Raw GoPro from Club Moto</title>
-      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016-2/</link>
-      <pubDate>Sat, 17 Dec 2016 10:09:20 -0800</pubDate>
+      <link>http://mikejobrien.com/2016/12/raw-gopro-from-club-moto/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016-2/</guid>
+      <guid>http://mikejobrien.com/2016/12/raw-gopro-from-club-moto/</guid>
       <description>&lt;p&gt;Unedited and Raw GoPro files from 12/17/2016 at Club Moto in Livermore, CA
-&lt;br&gt;&lt;/p&gt;
-
+&lt;br&gt;
 &lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
   &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0108.MP4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;br&gt;
-
 &lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
   &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0109.MP4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+&lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spinning a lap at Club Moto</title>
-      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016/</link>
-      <pubDate>Sat, 17 Dec 2016 09:17:55 -0800</pubDate>
+      <link>http://mikejobrien.com/2016/12/spinning-a-lap-at-club-moto/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/12-17-2016/</guid>
-      <description>&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RT87e75ocY8&#34;&gt;
-&lt;/iframe&gt;
+      <guid>http://mikejobrien.com/2016/12/spinning-a-lap-at-club-moto/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/RT87e75ocY8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 </description>
     </item>
     
     <item>
       <title>AWS Certified Developer</title>
-      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/11-23-2016/</link>
-      <pubDate>Wed, 23 Nov 2016 18:14:26 -0800</pubDate>
+      <link>http://mikejobrien.com/2016/11/aws-certified-developer/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/11-23-2016/</guid>
-      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-developer-associate/&#34;&gt;AWS Certified Developer - Associate Level&lt;/a&gt; exam today.  Certificate number 6438.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_adev_6438.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
+      <guid>http://mikejobrien.com/2016/11/aws-certified-developer/</guid>
+      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-developer-associate/&#34;&gt;AWS Certified Developer - Associate Level&lt;/a&gt; exam today.  Certificate number 6438.
+&lt;img src=&#34;http://mikejobrien.com/images/aws_adev_6438.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AWS Certified Solutions Architect</title>
-      <link>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</link>
-      <pubDate>Fri, 28 Oct 2016 18:12:10 -0800</pubDate>
+      <link>http://mikejobrien.com/2016/10/aws-certified-solutions-architect/</link>
+      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/post/2016/10-28-2016/</guid>
-      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-solutions-architect-associate/&#34;&gt;AWS Certified Solutions Architect - Associate Level&lt;/a&gt; exam today.  Certificate number 23200.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mikejobrien.com.s3-website-us-west-1.amazonaws.com/img/aws_asa_23200.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
+      <guid>http://mikejobrien.com/2016/10/aws-certified-solutions-architect/</guid>
+      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-solutions-architect-associate/&#34;&gt;AWS Certified Solutions Architect - Associate Level&lt;/a&gt; exam today.  Certificate number 23200.
+&lt;img src=&#34;http://mikejobrien.com/images/aws_asa_23200.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

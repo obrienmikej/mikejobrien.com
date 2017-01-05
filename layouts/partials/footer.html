@@ -1,20 +1,5 @@
-<footer class="main-footer">
-  <div class="container clearfix">
-        <a class="icon-rss" href="{{ "post/index.xml" | absURL }}" title="RSS"></a>
-        <p>&copy; {{ .Now.Format "2006" }} &middot; {{ .Site.Params.copyright | markdownify }}</p>
-  </div>
+<footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; {{ .Now.Format "2006" }} {{ with .Site.Params.footer.copyright }}{{ . | safeHTML }}{{ else }}{{ with .Site.Author.name }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ end }}{{ end }}{{ end }}. {{ i18n "footer.all_rights_reserved" }}
+  </span>
 </footer>
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.8.0/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-<script>window.jQuery || document.write('<script src="{{ "js/vendor/jquery-1.11.0.min.js" | absURL }}"><\/script>')</script>
-<script src="{{ "js/plugins.js" | absURL }}"></script>
-
-{{ range .Site.Params.custom_js }}
-<link rel="stylesheet" href="{{ . | absURL }}">
-{{ end }}
-
-{{ template "_internal/google_analytics.html" . }}
-</body>
-</html>

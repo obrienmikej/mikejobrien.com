@@ -1,10 +1,9 @@
-{{ partial "header" . }}
-<div class="container clearfix">
-    <main role="main" class="content">
-            <a class="btn home" href="{{ .Site.BaseURL }}" title="{{ .Site.Data.l10n.article.back_to_home }}">&laquo; {{ .Site.Data.l10n.article.back_to_home }}</a>
-            <h1>{{ .Site.Data.l10n.page_not_found.title }}</h1>
-            <p>{{ .Site.Data.l10n.page_not_found.subtitle }}</p>
-    </main>
-    {{ partial "author" . }}
-</div>
-{{ partial "footer" . }}
+{{ partial "head.html" . }}
+<main class="posts">
+  <article class="post">
+    <h1>404 Not Found</h1>
+    <p>Sorry, but we couldn't find the page you're looking for.</p>
+    <p>Please head back <a href="/">home</a>.</p>
+  </article>
+</main>
+{{ partial "foot.html" . }}
