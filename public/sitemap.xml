@@ -2,148 +2,165 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://mikejobrien.com/2017/01/configured-hugo/</loc>
+    <loc>https://mikejobrien.com/2017/01/https/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/2017/01/configured-hugo/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/2016/12/my-2016-book-list/</loc>
+    <loc>https://mikejobrien.com/2016/12/my-2016-book-list/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/2016/12/my-2016-podcast-list/</loc>
+    <loc>https://mikejobrien.com/2016/12/my-2016-podcast-list/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/2016/12/aws-certified-sysops-administrator/</loc>
+    <loc>https://mikejobrien.com/2016/12/aws-certified-sysops-administrator/</loc>
     <lastmod>2016-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/2016/12/raw-gopro-from-club-moto/</loc>
+    <loc>https://mikejobrien.com/2016/12/raw-gopro-from-club-moto/</loc>
     <lastmod>2016-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/2016/12/spinning-a-lap-at-club-moto/</loc>
+    <loc>https://mikejobrien.com/2016/12/spinning-a-lap-at-club-moto/</loc>
     <lastmod>2016-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/2016/11/aws-certified-developer/</loc>
+    <loc>https://mikejobrien.com/2016/11/aws-certified-developer/</loc>
     <lastmod>2016-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/2016/10/aws-certified-solutions-architect/</loc>
+    <loc>https://mikejobrien.com/2016/10/aws-certified-solutions-architect/</loc>
     <lastmod>2016-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/tags/129b/</loc>
+    <loc>https://mikejobrien.com/tags/129b/</loc>
     <lastmod>2016-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/categories/audio/</loc>
+    <loc>https://mikejobrien.com/categories/audio/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/categories/aws/</loc>
+    <loc>https://mikejobrien.com/categories/aws/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/tags/books/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/tags/certificate-manager/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/tags/certification/</loc>
     <lastmod>2016-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/tags/books/</loc>
-    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    <loc>https://mikejobrien.com/tags/cloudfront/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mikejobrien.com/tags/certification/</loc>
-    <lastmod>2016-12-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mikejobrien.com/tags/club-moto/</loc>
+    <loc>https://mikejobrien.com/tags/club-moto/</loc>
     <lastmod>2016-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/tags/gopro/</loc>
+    <loc>https://mikejobrien.com/tags/gopro/</loc>
     <lastmod>2016-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/tags/hugo/</loc>
+    <loc>https://mikejobrien.com/tags/hugo/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/tags/itunes/</loc>
+    <loc>https://mikejobrien.com/tags/itunes/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/categories/literature/</loc>
+    <loc>https://mikejobrien.com/categories/literature/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <loc>https://mikejobrien.com/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/categories/motocross/</loc>
+    <loc>https://mikejobrien.com/categories/motocross/</loc>
     <lastmod>2016-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/tags/podcast/</loc>
+    <loc>https://mikejobrien.com/tags/podcast/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/post/</loc>
+    <loc>https://mikejobrien.com/post/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/categories/static-site-generator/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/categories/static-site-generator/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <loc>https://mikejobrien.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mikejobrien.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mikejobrien.com/tags/youtube/</loc>
-    <lastmod>2016-12-17T00:00:00+00:00</lastmod>
+    <loc>https://mikejobrien.com/tags/youtube/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
