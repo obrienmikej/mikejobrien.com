@@ -1,12 +1,12 @@
 baseurl = "https://mikejobrien.com/"
 languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Mike J. O'Brien"
 description = "Personal site for Mike J. O'Brien"
 disqusShortname = "mjo"
 googleAnalytics = "UA-89523532-1"
 paginate = 10
 canonifyurls = true
-defaultContentLanguage = "en-us"
 
 [permalinks]
   post = "/:year/:month/:slug/"
