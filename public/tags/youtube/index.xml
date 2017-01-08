@@ -9,15 +9,15 @@
     <atom:link href="https://mikejobrien.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>HTTPS</title>
-      <link>https://mikejobrien.com/2017/01/https/</link>
+      <title>Configured HTTPS</title>
+      <link>https://mikejobrien.com/2017/01/configured-https/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2017/01/https/</guid>
-      <description>&lt;p&gt;Configured my site to use https.  Leveraged CloudFront and Certificate Manager.  Quick and easy setup.
+      <guid>https://mikejobrien.com/2017/01/configured-https/</guid>
+      <description>&lt;p&gt;Configured my website to use https, not http.  Leveraged CloudFront and Certificate Manager.  Quick and easy setup.
 &lt;br&gt;
 &lt;br&gt;
-Detailed walkthrough and step from Simone Carletti.
+Detailed walkthrough from Simone Carletti.
 &lt;br&gt;
 &lt;a href=&#34;https://simonecarletti.com/blog/2016/08/redirect-domain-https-amazon-cloudfront&#34;&gt;Redirecting a domain with HTTPS using Amazon S3 and CloudFront&lt;/a&gt;
 &lt;br&gt;
