@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Motocross on Mike J. O&#39;Brien</title>
-    <link>https://mikejobrien.com/categories/motocross/index.xml</link>
-    <description>Recent content in Motocross on Mike J. O&#39;Brien</description>
+    <title>Motorcycle on Mike J. O&#39;Brien</title>
+    <link>https://mikejobrien.com/categories/motorcycle/index.xml</link>
+    <description>Recent content in Motorcycle on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mikejobrien.com/categories/motocross/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mikejobrien.com/categories/motorcycle/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Street Safety</title>
+      <link>https://mikejobrien.com/2017/01/street-safety/</link>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejobrien.com/2017/01/street-safety/</guid>
+      <description>&lt;p&gt;Attended the &lt;a href=&#34;http://care2ride.net&#34;&gt;California Rider education&lt;/a&gt; training course over the weekend in Alameda, CA.  17 hours of in class instruction and outdoor riding.  Great time to refresh my skills on the bike.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Raw GoPro from Club Moto</title>
@@ -14,14 +24,14 @@
       <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mikejobrien.com/2016/12/raw-gopro-from-club-moto/</guid>
-      <description>&lt;p&gt;Unedited and Raw GoPro files from 12/17/2016 at Club Moto in Livermore, CA
+      <description>&lt;p&gt;Unedited and Raw GoPro files from 12/17/2016 at Club Moto in Livermore, CA.
 &lt;br&gt;
 &lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
-  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0108.MP4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobriengopro/20161217_GOPR0108.MP4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;br&gt;
 &lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
-  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrien.com/gopro/2016/20161217/GOPR0109.MP4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobriengopro/20161217_GOPR0109.MP4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
