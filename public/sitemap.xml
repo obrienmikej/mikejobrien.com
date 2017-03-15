@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mikejobrien.com/2017/02/fresh-powder-at-diamond-peak/</loc>
+    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/2017/01/street-safety/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -110,8 +115,14 @@
   </url>
   
   <url>
+    <loc>https://mikejobrien.com/tags/diamondpeak/</loc>
+    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/tags/gopro/</loc>
-    <lastmod>2017-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,7 +146,7 @@
   
   <url>
     <loc>https://mikejobrien.com/</loc>
-    <lastmod>2017-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,13 +164,13 @@
   
   <url>
     <loc>https://mikejobrien.com/post/</loc>
-    <lastmod>2017-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mikejobrien.com/categories/ski/</loc>
-    <lastmod>2017-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
