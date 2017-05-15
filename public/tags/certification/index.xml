@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certification on Mike J. O&#39;Brien</title>
-    <link>https://mikejobrien.com/tags/certification/index.xml</link>
+    <link>https://mikejobrien.com/tags/certification/</link>
     <description>Recent content in Certification on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mikejobrien.com/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mikejobrien.com/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Street Safety</title>
@@ -14,8 +17,7 @@
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mikejobrien.com/2017/01/street-safety/</guid>
-      <description>&lt;p&gt;Attended the &lt;a href=&#34;http://care2ride.net&#34;&gt;California Rider education&lt;/a&gt; training course over the weekend in Alameda, CA.  17 hours of in class instruction and outdoor riding.  Great time to refresh my skills on the bike.&lt;/p&gt;
-</description>
+      <description>Attended the California Rider education training course over the weekend in Alameda, CA. 17 hours of in class instruction and outdoor riding. Great time to refresh my skills on the bike.</description>
     </item>
     
     <item>
@@ -24,9 +26,7 @@
       <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mikejobrien.com/2016/12/aws-certified-sysops-administrator/</guid>
-      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-sysops-admin-associate/&#34;&gt;AWS Certified SysOps Administrator - Associate Level&lt;/a&gt; exam today.  Certificate number 5917.
-&lt;img src=&#34;https://mikejobrien.com/images/aws_asoa_5917.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>Passed the AWS Certified SysOps Administrator - Associate Level exam today. Certificate number 5917. </description>
     </item>
     
     <item>
@@ -35,9 +35,7 @@
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mikejobrien.com/2016/11/aws-certified-developer/</guid>
-      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-developer-associate/&#34;&gt;AWS Certified Developer - Associate Level&lt;/a&gt; exam today.  Certificate number 6438.
-&lt;img src=&#34;https://mikejobrien.com/images/aws_adev_6438.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>Passed the AWS Certified Developer - Associate Level exam today. Certificate number 6438. </description>
     </item>
     
     <item>
@@ -46,9 +44,7 @@
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mikejobrien.com/2016/10/aws-certified-solutions-architect/</guid>
-      <description>&lt;p&gt;Passed the &lt;a href=&#34;https://aws.amazon.com/certification/certified-solutions-architect-associate/&#34;&gt;AWS Certified Solutions Architect - Associate Level&lt;/a&gt; exam today.  Certificate number 23200.
-&lt;img src=&#34;https://mikejobrien.com/images/aws_asa_23200.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>Passed the AWS Certified Solutions Architect - Associate Level exam today. Certificate number 23200. </description>
     </item>
     
   </channel>

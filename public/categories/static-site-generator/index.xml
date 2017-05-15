@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Static Site Generator on Mike J. O&#39;Brien</title>
-    <link>https://mikejobrien.com/categories/static-site-generator/index.xml</link>
+    <link>https://mikejobrien.com/categories/static-site-generator/</link>
     <description>Recent content in Static Site Generator on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mikejobrien.com/categories/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mikejobrien.com/categories/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Configured Hugo</title>
@@ -14,8 +17,7 @@
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mikejobrien.com/2017/01/configured-hugo/</guid>
-      <description>&lt;p&gt;Migrated, installed and setup personal website today using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is a static site generator written in Go.&lt;/p&gt;
-</description>
+      <description>Migrated, installed and setup personal website today using Hugo, which is a static site generator written in Go.</description>
     </item>
     
   </channel>
