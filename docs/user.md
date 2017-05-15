@@ -4,7 +4,7 @@ A gorgeous responsive theme for Hugo blog framework
 
 [![Tranquilpeak](../showcase.png)](https://tranquilpeak.kakawait.com)
 
-Tranquilpeak theme is compatible with Hugo `v0.17`.
+Tranquilpeak theme is compatible with Hugo `v0.20`.
 
 This documentation will help you to install hugo-tranquilpeak-theme and configure it to use all features which it provides.  
 
@@ -47,13 +47,14 @@ If you want to report a bug or ask a question, [create an issue](https://github.
         * [Tabbed code block](#tabbed-code-block)
         * [Wide image](#wide-image)
         * [Fancybox](#fancybox)
+- [Writing pages](#writing-pages)
 - [Running](#running)  
 
 ## General
 
 - **Authors**: [Louis Barranqueiro (LouisBarranqueiro)](https://github.com/LouisBarranqueiro) and [Thibaud Leprêtre (kakawait)](https://github.com/kakawait)
-- **Version**: 0.2.0-ALPHA (based on Hexo version 1.9.1)
-- **Compatibility**: Hugo v0.17
+- **Version**: 0.3.1-BETA (based on Hexo version 1.9.1)
+- **Compatibility**: Hugo v0.20.1
 
 ## Features
 
@@ -102,7 +103,7 @@ If you want to report a bug or ask a question, [create an issue](https://github.
 
 ## Requirements
 
-1. **Hugo** : `v0.17`
+1. **Hugo** : `v0.20`
 
 ## Installation
 
@@ -144,7 +145,7 @@ If your language is not available, follow this guidelines (E.g : add swedish lan
 
 1. Set `defaultContentLanguage` to `sv-se` in Hugo configuration file `config.{toml,yaml,json}`  
 2. Create `sv-se.yaml` file in `theme/tranquilpeak/i18n/` folder  
-3. Copy the content of `theme/tranquilpeak/i18n/en.yaml` and paste it to `sv-se.yml` file  
+3. Copy the content of `theme/tranquilpeak/i18n/en-us.yaml` and paste it to `sv-se.yml` file  
 4. Replace all strings in english by their translation in swedish    
 
 #### Menu translation
@@ -343,7 +344,7 @@ E.g to display a shortcut to open algolia search window :
   thumbnailImagePosition = "right"
   autoThumbnailImage = true
   coverImage = "cover.jpg"
-  favicon =
+  favicon = /favicon.png
   imageGallery = true
   hierarchicalCategories = true
 ```
@@ -353,12 +354,14 @@ E.g to display a shortcut to open algolia search window :
 | sidebarBehavior | Define the behavior of the header and sidebar :<ul><li>1: Display extra large sidebar on extra large screen, large sidebar on large screen, medium sidebar on medium screen and header bar on small screen and extra large sidebar is swiped on extra large screen and large sidebar on all lower screens when open button is clicked (default)</li><li>2: Display large sidebar on extra large & large screen, medium sidebar on medium screen and header bar on small screen and large sidebar is swiped when open button is clicked</li><li>3: Display medium sidebar on large and medium screen and header bar on small screen and medium sidebar is swiped when open button is clicked</li><li>4: Display header bar on all screens, extra large sidebar is swiped on extra large screen and large sidebar is swiped on all lower screens</li><li>5: Display header bar on all screens and large sidebar is swiped on large screen</li><li>6: isplay header bar on all screens and medium sidebar is swiped</li></ul> |
 | clearReading | Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. Useless if `sidebarBehavior` is equal to `3` or `4`. (true: enable, false: disable). Default behavior : `params.clearReading` value in theme configuration file. |
 | thumbnailImage | Display thumbnail image of each post on index pages |
-| thumbnailImagePosition | Display thumbnail image at the right of title in index pages (`right`, `left` or `bottom`). Set this value to `right` if you have old posts to keep the old style on them and define `thumbnailImagePosition` on a post to overwrite this setting. (Default : `right`) |
+| thumbnailImagePosition | Display thumbnail image at the right of title in index pages (`right`, `left` or `bottom`). Set this value to `right` if you have old posts to keep the old style on them and define `thumbnailImagePosition` on a post to overwrite this setting. (Default: `right`) |
 | autoThumbnailImage | Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image. Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image and set `autoThumbnailImage` to `false` on a post to overwrite this setting. (Default : `true`) |
 | coverImage | Your blog cover picture. **I STRONGLY recommend you to use a CDN to speed up loading of pages. There is many free CDN like Cloudinary or you can also use indirectly by using services like Google Photos.** |
-| favicon | Your favicon path |
+| favicon | Your favicon path (Default: `/favicon.png`) |
 | imageGallery | Display an image gallery at the end of a post which have `photos` variables. (false: disabled, true: enabled) |
 | hierarchicalCategories | Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". If false it will flat categories. |
+| customCSS | Define files with css that override or extend the theme css; they are expected in `static` folder: `customCSS` = ["css/mystyles.css"]. |
+| customJS | Define files with js that override or extend the theme js; they are expected in `static` folder: `customJS` = ["js/myscripts.js"]. |
 
 E.g :  
 A category page look like this with `hierarchicalCategories = true` :  
@@ -479,6 +482,10 @@ gallery:
     - http://i.imgur.com/o9r19kD.jpg "Dubai"
     - https://example.com/orignal.jpg https://example.com/thumbnail.jpg "Sidney"
 comments: false
+showTags: true
+showPagination: true
+showSocial: true
+showDate: true
 ```
 
 |Variable|Description|
@@ -496,6 +503,10 @@ comments: false
 |coverMeta|`in`: display post meta (title, date and categories) on cover image, `out`: display meta (title, date and categories) under cover image as usual. Default behavior : `in`|
 |gallery|Images displayed in an image gallery (with fancybox) at the end of the post. If thumbnail image is not configured and cover image too, the first photo is used as thumbnail image. format: `original url [thumbnail url] [caption]`, E.g : `https://example.com/original.jpg https://example.com/thumbnail.jpg "New York"`|
 |comments|Disable the comment of the post.
+|showDate|`true`: Show the date when `true` (default)|
+|showTags|`true`: show tags of this page. Default behavior: `true`
+|showPagination|`true`: show pagination.  Default behavior: `true`
+|showSocial|`true`: show social button such as share on Twitter, Facebook...  Default behavior: `true`
 
 Example: 
 A post on index page will look like this with :`thumbnailImagePosition` set to `bottom`:  
@@ -511,11 +522,11 @@ The same with : `thumbnailImagePosition` set to `left`:
 
 Use: 
 
-- `<!-- more -->` to define post excerpt and keep the post excerpt in the post content
+- `<!--more-->` to define post excerpt and keep the post excerpt in the post content
 
 ### Display table of contents
 
-As post excerpt feature enable with `<!-- more -->` comment, you can display the table of contents of a post with  `<!-- toc -->`.  Place this comment where you want to display the table of content.
+As post excerpt feature enable with `<!--more-->` comment, you can display the table of contents of a post with  `<!-- toc -->`.  Place this comment where you want to display the table of content.
   
 Here is what looks like the table of contents generated:  
 ![thumbnail-image-position-left](https://s3-ap-northeast-1.amazonaws.com/tranquilpeak-hexo-theme/docs/1.4.0/toc-400.png) 
@@ -654,6 +665,48 @@ E.g:
 |src|Path to the original image.|
 |title (optional)|Title of image displayed in a caption under image. `Alt` HTML attribute will use this title. E.g : `"A beautiful sunrise"`.| 
   
+
+## Writing pages ##
+
+Sometimes you need to create a **page** that is **not** a **regular blog post**,
+where you want to hide the date, social sharing buttons, tags, categories 
+and pagination.
+This is the case for the blog pages _About_ or _Contact_ for instance which do
+not need to be timestamped (nor tagged or categorized) nor provide 
+pagination and are not intended to be shared on social networks.
+
+In order to create such a page you can proceed like so:
+
+```
+hugo new page/contact.md
+```
+
+This creates the file `contact.md` in the directory `content/page`
+pre-populated with the following front matter.
+
+```yaml
+---
+title: "New Page"
+categories:
+- category
+- subcategory
+tags:
+- tag1
+- tag2
+keywords:
+- tech
+comments:       false
+showDate:       false
+showSocial:     false
+showTags:       false
+showPagination: false
+#thumbnailImage: //example.com/image.jpg
+---
+
+```
+
+The rest is basically the same as for a regular _[post](#writing-posts)_.
+
 ## Running ##
 
 Run `hugo server` and start writing! :)
