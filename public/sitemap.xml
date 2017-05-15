@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mikejobrien.com/2017/05/club-moto-race-05/13/2017/</loc>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/2017/02/fresh-powder-at-diamond-peak/</loc>
     <lastmod>2017-02-26T00:00:00+00:00</lastmod>
   </url>
@@ -63,7 +68,7 @@
   
   <url>
     <loc>https://mikejobrien.com/tags/129b/</loc>
-    <lastmod>2016-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -116,7 +121,7 @@
   
   <url>
     <loc>https://mikejobrien.com/tags/club-moto/</loc>
-    <lastmod>2016-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,13 +157,19 @@
   
   <url>
     <loc>https://mikejobrien.com/</loc>
-    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mikejobrien.com/categories/motorcycle/</loc>
-    <lastmod>2017-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/tags/othg/</loc>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -170,7 +181,7 @@
   
   <url>
     <loc>https://mikejobrien.com/post/</loc>
-    <lastmod>2017-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,7 +211,7 @@
   
   <url>
     <loc>https://mikejobrien.com/tags/</loc>
-    <lastmod>2016-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
