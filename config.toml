@@ -124,7 +124,7 @@ canonifyurls = true
   # and use relative url : `your-image.png`
   coverImage = "StockSnap_M7WO0WSQR3.jpg"
 
-  favicon = "favicon.ico"
+  favicon = "/images/favicon.ico"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
