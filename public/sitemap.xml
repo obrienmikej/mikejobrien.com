@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mikejobrien.com/2017/05/club-moto-race-05/13/2017/</loc>
+    <loc>https://mikejobrien.com/2017/05/club-moto-race-may-2017/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url>
   
