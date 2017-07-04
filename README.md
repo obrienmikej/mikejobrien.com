@@ -13,3 +13,10 @@ cd /Users/mike/hugo/mikejobrien.com/public
 aws s3 sync . s3://mikejobrien.com --delete --acl public-read --dryrun
 #commit
 aws s3 sync . s3://mikejobrien.com --delete --acl public-read
+
+#sitemap
+Submit it to Google using the Search Console Sitemaps tool
+https://www.google.com/webmasters/tools/sitemap-list
+#recrawl
+Ask Google to recrawl your URLs
+https://www.google.com/webmasters/tools/googlebot-fetch
