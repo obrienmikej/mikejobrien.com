@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mikejobrien.com/2017/05/yamaha-fj09-manual/</loc>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/2017/05/club-moto-race/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/2017/04/ktm-450-sx-f-manuals/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -74,6 +84,12 @@
   </url>
   
   <url>
+    <loc>https://mikejobrien.com/tags/450sxf/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/archives/</loc>
     <priority>0</priority>
   </url>
@@ -133,6 +149,12 @@
   </url>
   
   <url>
+    <loc>https://mikejobrien.com/tags/fj09/</loc>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/tags/gopro/</loc>
     <lastmod>2017-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -157,14 +179,20 @@
   </url>
   
   <url>
+    <loc>https://mikejobrien.com/tags/manual/</loc>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/</loc>
-    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mikejobrien.com/categories/motorcycle/</loc>
-    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -182,7 +210,7 @@
   
   <url>
     <loc>https://mikejobrien.com/post/</loc>
-    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
