@@ -84,12 +84,6 @@
   </url>
   
   <url>
-    <loc>https://mikejobrien.com/tags/450sxf/</loc>
-    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mikejobrien.com/archives/</loc>
     <priority>0</priority>
   </url>
@@ -169,6 +163,12 @@
   <url>
     <loc>https://mikejobrien.com/tags/itunes/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/tags/ktm450sxf/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
