@@ -1,5 +1,5 @@
 # Overview
-Steps to deploy static website to S3.
+Steps to deploy this static website to S3.
 
 ## remove local content
 1. run `rm -rf /Users/mike/hugo/mikejobrien.com/public`
@@ -14,8 +14,8 @@ Steps to deploy static website to S3.
 ## verify changes before sync to S3
 1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read --dryrun`
 
-## commit
-1. aws s3 sync . s3://mikejobrien.com --delete --acl public-read
+## commit changes to S3
+1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read`
 
 ## sitemap
 1. Submit sitemap to Google using the Search Console [Sitemaps tool](https://www.google.com/webmasters/tools/sitemap-list)
