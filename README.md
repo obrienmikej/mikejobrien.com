@@ -1,6 +1,9 @@
 # Overview
 Steps to deploy this static website to S3.
 
+## prerequisites
+1. update run commands below if hugo home directory is different than /Users/mike/hugo
+
 ## remove local content
 1. run `rm -rf /Users/mike/hugo/mikejobrien.com/public`
 
