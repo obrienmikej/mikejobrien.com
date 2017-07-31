@@ -2,17 +2,17 @@
 Steps to deploy this static website to S3.
 
 ## prerequisites
-1. update run commands below if hugo home directory is different than /Users/mike/hugo
+mikejobrien.com is located in ~hugo/mikejobrien.com
 
 ## remove local content
-1. run `rm -rf /Users/mike/hugo/mikejobrien.com/public`
+1. run `rm -rf ~/hugo/mikejobrien.com/public`
 
 ## generate new content
-1. run `cd /Users/mike/hugo/mikejobrien.com`
+1. run `cd ~/hugo/mikejobrien.com`
 2. run `hugo`
 
 ## sync files to S3
-1. run `cd /Users/mike/hugo/mikejobrien.com/public`
+1. run `cd ~/hugo/mikejobrien.com/public`
 
 ## verify changes before sync to S3
 1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read --dryrun`
