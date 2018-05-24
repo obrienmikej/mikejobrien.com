@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mikejobrien.com/2018/05/rockshox-boxxer-worldcup-manual/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/2017/12/my-2017-book-list/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
   </url>
@@ -131,8 +136,20 @@
   </url>
   
   <url>
+    <loc>https://mikejobrien.com/categories/bicycle/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mikejobrien.com/tags/books/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/tags/boxxer-worldcup/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -228,7 +245,7 @@
   
   <url>
     <loc>https://mikejobrien.com/</loc>
-    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -252,7 +269,13 @@
   
   <url>
     <loc>https://mikejobrien.com/post/</loc>
-    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikejobrien.com/tags/rockshox/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
