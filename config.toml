@@ -2,7 +2,7 @@ baseurl = "https://mikejobrien.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Mike J. O'Brien"
-description = "Personal site for Mike J. O'Brien"
+description = "Personal site for Mike J. OBrien"
 disqusShortname = "mjo"
 googleAnalytics = "UA-89523532-1"
 paginate = 10
@@ -17,7 +17,7 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Mike J. O'Brien"
+  name = "Mike J. OBrien"
   bio = "Director Engineering, Technical Operations and Quality leader in San Francisco Bay Area. Quality and Customer Advocate. Motocross racer and enthusiast."
   job = "Dir. Engineering"
   location = "Walnut Creek, CA"
