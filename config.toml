@@ -78,13 +78,6 @@ canonifyurls = true
   name = "YouTube"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-youtube\"></i>"
   url = "https://www.youtube.com/user/knoby129"
-[[menu.links]]
-  weight = 4
-  identifier = "facebook"
-  name = "YouTube"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
-  url = "https://www.facebook.com/obrienmikej"
-
 
 [params]
   # Customize date format use to render blog post date, categories and other
