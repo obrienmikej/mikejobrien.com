@@ -31,7 +31,7 @@ mikejobrien.com is located in ~hugo/mikejobrien.com
 
 ## upgrade hugo version
 What changed https://github.com/gohugoio/hugo/releases
-1. Run 'hugo version'
-2. Run 'brew upgrade hugo'
-3. Run 'hugo version'
+1. Run `hugo version`
+2. Run `brew upgrade hugo`
+3. Run `hugo version`
 4. Republish content by repeating all steps above
