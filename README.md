@@ -30,7 +30,7 @@ mikejobrien.com is located in ~hugo/mikejobrien.com
 3. request indexing
 
 ## upgrade hugo version
-What changed https://github.com/gohugoio/hugo/releases
+What changed [hugo releases](https://github.com/gohugoio/hugo/releases)
 1. Run `hugo version`
 2. Run `brew upgrade hugo`
 3. Run `hugo version`
