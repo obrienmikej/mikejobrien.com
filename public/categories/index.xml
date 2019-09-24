@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mikejobrien.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>motorcycle</title>
+      <link>https://mikejobrien.com/categories/motorcycle/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejobrien.com/categories/motorcycle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>rv</title>
@@ -44,15 +53,6 @@
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mikejobrien.com/categories/audio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motorcycle</title>
-      <link>https://mikejobrien.com/categories/motorcycle/</link>
-      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/motorcycle/</guid>
       <description></description>
     </item>
     
