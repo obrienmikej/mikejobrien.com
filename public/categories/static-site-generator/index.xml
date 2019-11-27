@@ -6,6 +6,7 @@
     <description>Recent content in static site generator on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mikejobrien.com/categories/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +14,10 @@
     
     <item>
       <title>Configured Hugo</title>
-      <link>https://mikejobrien.com/2017/01/configured-hugo/</link>
+      <link>https://mikejobrien.com/posts/2017/01-02-2017/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2017/01/configured-hugo/</guid>
+      <guid>https://mikejobrien.com/posts/2017/01-02-2017/</guid>
       <description>Migrated, installed and setup personal website today using Hugo, which is a static site generator written in Go.</description>
     </item>
     

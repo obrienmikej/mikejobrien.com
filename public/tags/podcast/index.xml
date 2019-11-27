@@ -6,6 +6,7 @@
     <description>Recent content in podcast on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mikejobrien.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
@@ -13,19 +14,19 @@
     
     <item>
       <title>My 2017 Podcast List</title>
-      <link>https://mikejobrien.com/2017/12/my-2017-podcast-list/</link>
+      <link>https://mikejobrien.com/posts/2017/12-31-2017-2/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2017/12/my-2017-podcast-list/</guid>
+      <guid>https://mikejobrien.com/posts/2017/12-31-2017-2/</guid>
       <description> Unordered iTunes podcast library DevOps Cafe Podcast By: John Willis &amp;amp; Damon Edwards Follow My Lead Developing the Leaders of Tomorrow with John Eades By: John Eades TedTalks Health By: TED TedTalks Business By: TED TedTalks Technology By: TED The Cloudcast (.net) - Weekly Cloud Computing Podcast By: Aaron Delp &amp;amp; Brian Gracely </description>
     </item>
     
     <item>
       <title>My 2016 Podcast List</title>
-      <link>https://mikejobrien.com/2016/12/my-2016-podcast-list/</link>
+      <link>https://mikejobrien.com/posts/2016/12-31-2016-2/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2016/12/my-2016-podcast-list/</guid>
+      <guid>https://mikejobrien.com/posts/2016/12-31-2016-2/</guid>
       <description> Unordered iTunes podcast library  The Food Fight Show AWS re:Invent 2015 a16z TedTalks Health TedTalks Business TedTalks Technology Arrested DevOps The CloudCast.net Weekly Cloud Computing The Ship Show Manager Tools TestTalks | Automation Awesomeness Helping You Succeed With Test Automation Pivot: Code the Industrial Internet Google Cloud Platform Microsoft Azure Cloud Cover Show channel 9  </description>
     </item>
     

@@ -6,6 +6,7 @@
     <description>Recent content in aws on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mikejobrien.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
@@ -13,37 +14,37 @@
     
     <item>
       <title>Configured HTTPS</title>
-      <link>https://mikejobrien.com/2017/01/configured-https/</link>
+      <link>https://mikejobrien.com/posts/2017/01-07-2017/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2017/01/configured-https/</guid>
+      <guid>https://mikejobrien.com/posts/2017/01-07-2017/</guid>
       <description>Configured my website to use https, not http. Leveraged CloudFront and Certificate Manager. Quick and easy setup. Detailed walkthrough from Simone Carletti. Redirecting a domain with HTTPS using Amazon S3 and CloudFront Quick and dirty AWS tutorial series video.   </description>
     </item>
     
     <item>
       <title>AWS Certified SysOps Administrator</title>
-      <link>https://mikejobrien.com/2016/12/aws-certified-sysops-administrator/</link>
+      <link>https://mikejobrien.com/posts/2016/12-23-2016/</link>
       <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2016/12/aws-certified-sysops-administrator/</guid>
+      <guid>https://mikejobrien.com/posts/2016/12-23-2016/</guid>
       <description>Passed the AWS Certified SysOps Administrator - Associate Level exam today. Certificate number 5917. </description>
     </item>
     
     <item>
       <title>AWS Certified Developer</title>
-      <link>https://mikejobrien.com/2016/11/aws-certified-developer/</link>
+      <link>https://mikejobrien.com/posts/2016/11-23-2016/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2016/11/aws-certified-developer/</guid>
+      <guid>https://mikejobrien.com/posts/2016/11-23-2016/</guid>
       <description>Passed the AWS Certified Developer - Associate Level exam today. Certificate number 6438. </description>
     </item>
     
     <item>
       <title>AWS Certified Solutions Architect</title>
-      <link>https://mikejobrien.com/2016/10/aws-certified-solutions-architect/</link>
+      <link>https://mikejobrien.com/posts/2016/10-28-2016/</link>
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2016/10/aws-certified-solutions-architect/</guid>
+      <guid>https://mikejobrien.com/posts/2016/10-28-2016/</guid>
       <description>Passed the AWS Certified Solutions Architect - Associate Level exam today. Certificate number 23200. </description>
     </item>
     

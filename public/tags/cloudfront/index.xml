@@ -6,6 +6,7 @@
     <description>Recent content in cloudfront on Mike J. O&#39;Brien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mikejobrien.com/tags/cloudfront/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +14,10 @@
     
     <item>
       <title>Configured HTTPS</title>
-      <link>https://mikejobrien.com/2017/01/configured-https/</link>
+      <link>https://mikejobrien.com/posts/2017/01-07-2017/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mikejobrien.com/2017/01/configured-https/</guid>
+      <guid>https://mikejobrien.com/posts/2017/01-07-2017/</guid>
       <description>Configured my website to use https, not http. Leveraged CloudFront and Certificate Manager. Quick and easy setup. Detailed walkthrough from Simone Carletti. Redirecting a domain with HTTPS using Amazon S3 and CloudFront Quick and dirty AWS tutorial series video.   </description>
     </item>
     
