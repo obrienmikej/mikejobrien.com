@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html><head>
+<title>My 2019 Book List</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-89523532-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://mikejobrien.com/scss/journal.min.b16b92403170aa4eb662f097e3eb511404d139b4dbc2f3b2a55054fe0b9913c0.css" integrity="sha256-sWuSQDFwqk62YvCX4&#43;tRFATRObTbwvOypVBU/guZE8A=" media="screen">
+
+<script src="https://mikejobrien.com//js/loadCSS.js"></script>
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://mikejobrien.com/">
+    
+        <div class="nav-title">
+            Mike J. O&#39;Brien
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mikejobrien.com/categories/">
+                    Categories
+                </a>
+            
+        
+            
+            
+
+            
+                
+                <a class="a-block nav-link-item false" href="https://mikejobrien.com/tags/">
+                    Tags
+                </a>
+            
+        
+    </div>
+
+
+    <div class="nav-footer">
+        Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://amazingrise.net">Rise</a>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+&copy;
+	
+	2020 Mike J. O&#39;Brien
+	
+    </div>
+    
+</div><div ref="extraContainer" class="extra-container">
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mikejobrien.com/categories/">
+                        Categories
+                    </a>
+                
+            
+                
+                
+
+                
+                    
+                    <a class="a-block drawer-menu-item false" href="https://mikejobrien.com/tags/">
+                        Tags
+                    </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://mikejobrien.com/">
+            Mike J. O&#39;Brien
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://mikejobrien.com/">
+        <div class="single-column-header-title">Mike J. O&#39;Brien</div>
+        
+
+    </a>
+</div>
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+                
+            
+
+            <div class="post-head-wrapper"
+                 style="background-image: url('/images/StockSnap_C9E7B4U7QY.jpg')">
+                <div class="post-title">
+                    My 2019 Book List
+                    <div class="post-meta">
+                        <time itemprop="datePublished">
+                            2019-12-31 00:00
+                        </time>
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="/categories/">[literature]</a>
+                                &nbsp;
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/books">books</a>
+                                &nbsp;
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <p>Books I read in 2019.
+<br></p>
+
+<p><b>Rich Dad Poor Dad</b>
+<br>
+What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!
+<br>
+By: Robert T. Kiyosaki
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07C7M8SX9" ></iframe>
+<br></p>
+
+<p><b>Liar&rsquo;s Poker</b>
+<br>
+Rising Through the Wreckage on Wall Street
+<br>
+By: Michael Lewis
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000W7E5FW" ></iframe>
+<br></p>
+
+<p><b>The Ideal Team Player</b>
+<br>
+How to Recognize and Cultivate the Three Essential Virtues: A Leadership Fable
+<br>
+By: Patrick M. Lencioni
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01EGCAOA8" ></iframe>
+<br></p>
+
+<p><b>The Undoing Project</b>
+<br>
+A Friendship That Changed Our Minds
+<br>
+By: Michael Lewis
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01KBM82M4" ></iframe>
+<br></p>
+
+<p><b>Atomic Habits</b>
+<br>
+An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones
+<br>
+By: James Clear
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07RFSSYBH" ></iframe>
+<br></p>
+
+<p><b>The 3-Day Effect</b>
+<br>
+By: Florence Williams
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07GX4642V" ></iframe>
+<br></p>
+
+<p><b>The Algebra of Happiness</b>
+<br>
+Notes on the Pursuit of Success, Love, and Meaning
+<br>
+By: Scott Galloway
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07PMFG3SZ" ></iframe>
+<br></p>
+
+<p><b>Radical Candor</b>
+<br>
+Be a Kick-Ass Boss Without Losing Your Humanity
+<br>
+By: Kim Scott
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01MY574EE" ></iframe>
+<br></p>
+
+<p><b>The Manager&rsquo;s Path</b>
+<br>
+A Guide for Tech Leaders Navigating Growth and Change
+<br>
+By: Camille Fournier
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07SV4VDWC" ></iframe>
+<br></p>
+
+<p><b>The ONE Thing</b>
+<br>
+The Surprisingly Simple Truth Behind Extraordinary Results
+<br>
+By: Gary Keller, Jay Papasan
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00FPVS27W" ></iframe>
+<br></p>
+
+<p><b>Accelerate: Building and Scaling High Performing Technology Organizations</b>
+<br>
+By: Nicole Forsgren PhD, Jez Humble, Gene Kim
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07BMBYHXL" ></iframe>
+<br></p>
+
+<p><b>Factfulness</b>
+<br>
+Ten Reasons We&rsquo;re Wrong About the World - and Why Things Are Better Than You Think
+<br>
+By: Hans Rosling, Anna Rosling Rönnlund, Ola Rosling
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07BFDCWZP" ></iframe>
+<br></p>
+
+<p><b>Emotional Intelligence 2.0</b>
+<br>
+By: Travis Bradberry, Jean Greaves
+<br>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003MSCSD4" ></iframe>
+<br></p>
+
+                </div>
+            </div>
+
+            <nav class="post-pagination">
+                
+                <a class="newer-posts" href="https://mikejobrien.com/posts/2020/01-19-2020/">
+                    Next<br>Riverfront MX Park
+                </a>
+                
+                
+                
+                <a class="older-posts" href="https://mikejobrien.com/posts/2019/12-28-2019/">
+                    Previous<br>Hangover Marathon
+                </a>
+                
+            </nav>
+
+            
+
+
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://amazingrise.net">Rise</a>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+&copy;
+	
+	2020 Mike J. O&#39;Brien
+	</div>
+    	</div>
+    <script src="https://mikejobrien.com//js/journal.js"></script>
+    </body>
+</html>

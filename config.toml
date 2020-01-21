@@ -1,13 +1,13 @@
 baseURL = "https://mikejobrien.com/"
 languageCode = "en-us"
 title = "Mike J. O'Brien"
-copyright = "This is a customized copyright."
+#copyright = "This is a customized copyright."
 disableKinds = ["section"]
 theme = "diary"
 googleAnalytics = "UA-89523532-1"
 
 [params]
-subtitle = "My Personal site."
+#subtitle = "My Personal site."
 enableGitalk = false
 
 #[params.gitalk]
