@@ -1,4 +1,9 @@
 <div ref="extraContainer" class="extra-container">
+    {{ if and (not (.Site.Params.disableToC) ) (.IsPage) }}
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+        {{- partial "toc.html" . -}}
+    </div>
+    {{ end }}
     <div class="pagination">
         <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
             <i class="material-icons pagination-action-icon">
