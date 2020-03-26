@@ -1,50 +1,436 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>literature on Mike J. O&#39;Brien</title>
+    <title>literature | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/categories/literature/</link>
-    <description>Recent content in literature on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/categories/literature/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/categories/literature/index.xml" rel="self" type="application/rss+xml" />
+    <description>literature</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>literature</title>
+      <link>https://mikejobrien.com/categories/literature/</link>
+    </image>
     
     <item>
       <title>My 2019 Book List</title>
-      <link>https://mikejobrien.com/posts/2019/12-31-2019/</link>
+      <link>https://mikejobrien.com/post/2019/2019-12-31/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2019/12-31-2019/</guid>
-      <description>Books I read in 2019. Rich Dad Poor DadWhat the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not! By: Robert T. Kiyosaki Liar&amp;rsquo;s PokerRising Through the Wreckage on Wall Street By: Michael Lewis The Ideal Team PlayerHow to Recognize and Cultivate the Three Essential Virtues: A Leadership Fable By: Patrick M. Lencioni The Undoing ProjectA Friendship That Changed Our Minds By: Michael Lewis Atomic HabitsAn Easy &amp;amp; Proven Way to Build Good Habits &amp;amp; Break Bad Ones By: James Clear The 3-Day EffectBy: Florence Williams The Algebra of HappinessNotes on the Pursuit of Success, Love, and Meaning By: Scott Galloway Radical CandorBe a Kick-Ass Boss Without Losing Your Humanity By: Kim Scott The Manager&amp;rsquo;s PathA Guide for Tech Leaders Navigating Growth and Change By: Camille Fournier The ONE ThingThe Surprisingly Simple Truth Behind Extraordinary Results By: Gary Keller, Jay Papasan Accelerate: Building and Scaling High Performing Technology OrganizationsBy: Nicole Forsgren PhD, Jez Humble, Gene Kim FactfulnessTen Reasons We&amp;rsquo;re Wrong About the World - and Why Things Are Better Than You Think By: Hans Rosling, Anna Rosling Rönnlund, Ola Rosling Emotional Intelligence 2.</description>
+      <guid>https://mikejobrien.com/post/2019/2019-12-31/</guid>
+      <description>&lt;p&gt;Books I read in 2019.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Rich Dad Poor Dad&lt;/b&gt;
+&lt;br&gt;
+What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!
+&lt;br&gt;
+By: Robert T. Kiyosaki
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07C7M8SX9&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Liar&amp;rsquo;s Poker&lt;/b&gt;
+&lt;br&gt;
+Rising Through the Wreckage on Wall Street
+&lt;br&gt;
+By: Michael Lewis
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B000W7E5FW&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Ideal Team Player&lt;/b&gt;
+&lt;br&gt;
+How to Recognize and Cultivate the Three Essential Virtues: A Leadership Fable
+&lt;br&gt;
+By: Patrick M. Lencioni
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01EGCAOA8&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Undoing Project&lt;/b&gt;
+&lt;br&gt;
+A Friendship That Changed Our Minds
+&lt;br&gt;
+By: Michael Lewis
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01KBM82M4&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Atomic Habits&lt;/b&gt;
+&lt;br&gt;
+An Easy &amp;amp; Proven Way to Build Good Habits &amp;amp; Break Bad Ones
+&lt;br&gt;
+By: James Clear
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07RFSSYBH&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The 3-Day Effect&lt;/b&gt;
+&lt;br&gt;
+By: Florence Williams
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07GX4642V&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Algebra of Happiness&lt;/b&gt;
+&lt;br&gt;
+Notes on the Pursuit of Success, Love, and Meaning
+&lt;br&gt;
+By: Scott Galloway
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07PMFG3SZ&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Radical Candor&lt;/b&gt;
+&lt;br&gt;
+Be a Kick-Ass Boss Without Losing Your Humanity
+&lt;br&gt;
+By: Kim Scott
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01MY574EE&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Manager&amp;rsquo;s Path&lt;/b&gt;
+&lt;br&gt;
+A Guide for Tech Leaders Navigating Growth and Change
+&lt;br&gt;
+By: Camille Fournier
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07SV4VDWC&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The ONE Thing&lt;/b&gt;
+&lt;br&gt;
+The Surprisingly Simple Truth Behind Extraordinary Results
+&lt;br&gt;
+By: Gary Keller, Jay Papasan
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00FPVS27W&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Accelerate: Building and Scaling High Performing Technology Organizations&lt;/b&gt;
+&lt;br&gt;
+By: Nicole Forsgren PhD, Jez Humble, Gene Kim
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07BMBYHXL&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Factfulness&lt;/b&gt;
+&lt;br&gt;
+Ten Reasons We&amp;rsquo;re Wrong About the World - and Why Things Are Better Than You Think
+&lt;br&gt;
+By: Hans Rosling, Anna Rosling Rönnlund, Ola Rosling
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07BFDCWZP&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Emotional Intelligence 2.0&lt;/b&gt;
+&lt;br&gt;
+By: Travis Bradberry, Jean Greaves
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B003MSCSD4&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+</description>
     </item>
     
     <item>
       <title>My 2018 Book List</title>
-      <link>https://mikejobrien.com/posts/2018/12-31-2018/</link>
+      <link>https://mikejobrien.com/post/2018/2018-12-31/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2018/12-31-2018/</guid>
-      <description>Books I read in 2018. But What If We&amp;rsquo;re Wrong?Thinking About the Present as If It Were the Past By: Chuck Klosterman The Chaos ImperativeHow Chance and Disruption Increase Innovation, Effectiveness, and Success By: Ori Brafman, Judah Pollack Measure What MattersHow Google, Bono, and the Gates Foundation Rock the World with OKRs By: John Doerr, Larry Page - foreword The UpstartsHow Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World By: Brad Stone It Doesn&amp;rsquo;t Have to Be Crazy at WorkBy: Jason Fried, David Heinemeier Hansson QuietThe Power of Introverts in a World That Can&amp;rsquo;t Stop Talking By: Susan Cain Creativity, Inc.</description>
+      <guid>https://mikejobrien.com/post/2018/2018-12-31/</guid>
+      <description>&lt;p&gt;My book list.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;But What If We&amp;rsquo;re Wrong?&lt;/b&gt;
+&lt;br&gt;
+Thinking About the Present as If It Were the Past
+&lt;br&gt;
+By: Chuck Klosterman
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01D0I6P6G&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Chaos Imperative&lt;/b&gt;
+&lt;br&gt;
+How Chance and Disruption Increase Innovation, Effectiveness, and Success
+&lt;br&gt;
+By: Ori Brafman, Judah Pollack
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00DVQMV2K&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Measure What Matters&lt;/b&gt;
+&lt;br&gt;
+How Google, Bono, and the Gates Foundation Rock the World with OKRs
+&lt;br&gt;
+By: John Doerr, Larry Page - foreword
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07BMJ4L1S&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Upstarts&lt;/b&gt;
+&lt;br&gt;
+How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World
+&lt;br&gt;
+By: Brad Stone
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01MT1FHD8&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;It Doesn&amp;rsquo;t Have to Be Crazy at Work&lt;/b&gt;
+&lt;br&gt;
+By: Jason Fried, David Heinemeier Hansson
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B07G8L5NZ9&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Quiet&lt;/b&gt;
+&lt;br&gt;
+The Power of Introverts in a World That Can&amp;rsquo;t Stop Talking
+&lt;br&gt;
+By: Susan Cain
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00714PZMQ&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Creativity, Inc.&lt;/b&gt;
+&lt;br&gt;
+Overcoming the Unseen Forces That Stand in the Way of True Inspiration
+&lt;br&gt;
+By: Ed Catmull, Amy Wallace
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00IPJTQQW&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Grit&lt;/b&gt;
+&lt;br&gt;
+The Power of Passion and Perseverance
+&lt;br&gt;
+By: Angela Duckworth
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01D3AC5VU&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Happiness Advantage&lt;/b&gt;
+&lt;br&gt;
+The Seven Principles of Positive Psychology That Fuel Success and Performance at Work
+&lt;br&gt;
+By: Shawn Achor
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00435DZ7S&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Brotopia&lt;/b&gt;
+&lt;br&gt;
+Breaking Up the Boys&amp;rsquo; Club of Silicon Valley
+&lt;br&gt;
+By: Emily Chang
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B078SG9X3Q&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Mindset&lt;/b&gt;
+&lt;br&gt;
+The New Psychology of Success
+&lt;br&gt;
+By: Carol Dweck
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B001U5P7CK&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Outsiders&lt;/b&gt;
+&lt;br&gt;
+Eight Unconventional CEOs and Their Radically Rational Blueprint for Success
+&lt;br&gt;
+By: Patrick Lencioni
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00F3HEXEO&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Five Dysfunctions of a Team&lt;/b&gt;
+&lt;br&gt;
+A Leadership Fable
+&lt;br&gt;
+By: Patrick Lencioni
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B000079XXR&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Subtle Art of Not Giving a F*ck&lt;/b&gt;
+&lt;br&gt;
+A Counterintuitive Approach to Living a Good Life
+&lt;br&gt;
+By: Mark Manson
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B0755CRB7F&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Tribes&lt;/b&gt;
+&lt;br&gt;
+We Need You to Lead Us
+&lt;br&gt;
+By: Seth Godin
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B001FA0LAI&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Immunity to Change&lt;/b&gt;
+&lt;br&gt;
+How to Overcome It and Unlock the Potential in Yourself and Your Organization
+&lt;br&gt;
+By: Robert Kegan, Lisa Laskow Lahey
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B004OEILH2&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Better Angels of Our Nature&lt;/b&gt;
+&lt;br&gt;
+Why Violence Has Declined
+&lt;br&gt;
+By: Steven Pinker
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B0052REUW0&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+</description>
     </item>
     
     <item>
       <title>My 2017 Book List</title>
-      <link>https://mikejobrien.com/posts/2017/12-31-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-12-31/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/12-31-2017/</guid>
-      <description>Books I read in 2017. Never Split the DifferenceNegotiating as if Your Life Depended on It By: Chris Voss Man&amp;rsquo;s Search for MeaningBy: Viktor E. Frankl Start with WhyHow Great Leaders Inspire Everyone to Take Action By: Simon Sinek Leaders Eat LastWhy Some Teams Pull Together and Others Don&amp;rsquo;t By: Simon Sinek Who Moved My Cheese?An Amazing Way to Deal with Change in Your Work and in Your Life By: Spencer Johnson Lead and DisruptHow to Solve the Innovator&amp;rsquo;s Dilemma By: Charles A.</description>
+      <guid>https://mikejobrien.com/post/2017/2017-12-31/</guid>
+      <description>&lt;p&gt;My book list.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Never Split the Difference&lt;/b&gt;
+&lt;br&gt;
+Negotiating as if Your Life Depended on It
+&lt;br&gt;
+By: Chris Voss
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B014DUR7L2&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Man&amp;rsquo;s Search for Meaning&lt;/b&gt;
+&lt;br&gt;
+By: Viktor E. Frankl
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B0006IU470&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Start with Why&lt;/b&gt;
+&lt;br&gt;
+How Great Leaders Inspire Everyone to Take Action
+&lt;br&gt;
+By: Simon Sinek
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B074VF6ZLM&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Leaders Eat Last&lt;/b&gt;
+&lt;br&gt;
+Why Some Teams Pull Together and Others Don&amp;rsquo;t
+&lt;br&gt;
+By: Simon Sinek
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00HQ3K34M&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Who Moved My Cheese?&lt;/b&gt;
+&lt;br&gt;
+An Amazing Way to Deal with Change in Your Work and in Your Life
+&lt;br&gt;
+By: Spencer Johnson
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B000FQFSTM&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Lead and Disrupt&lt;/b&gt;
+&lt;br&gt;
+How to Solve the Innovator&amp;rsquo;s Dilemma
+&lt;br&gt;
+By: Charles A. O&amp;rsquo;Reilly III,‎ Michael L. Tushman
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=0804798656&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Be Obsessed or Be Average&lt;/b&gt;
+&lt;br&gt;
+By: Grant Cardone
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01H43JCTU&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The 5 Second Rule&lt;/b&gt;
+&lt;br&gt;
+Transform your Life, Work, and Confidence with Everyday Courage
+&lt;br&gt;
+By: Mel Robbins
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B06W9M3QDJ&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Innovator&amp;rsquo;s Dilemma&lt;/b&gt;
+&lt;br&gt;
+When New Technologies Cause Great Firms to Fail
+&lt;br&gt;
+By: Clayton M. Christensen
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B06Y4RRGVV&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Give and Take&lt;/b&gt;
+&lt;br&gt;
+A Revolutionary Approach to Success
+&lt;br&gt;
+By: Ph.D. Adam M. Grant
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00BMBANYY&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Deep Work&lt;/b&gt;
+&lt;br&gt;
+Rules for Focused Success in a Distracted World
+&lt;br&gt;
+By: Cal Newport
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B0189PVAWY&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Amazon Way&lt;/b&gt;
+&lt;br&gt;
+14 Leadership Principles Behind the World&amp;rsquo;s Most Disruptive Company
+&lt;br&gt;
+By: John Rossman
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00ODBIEUU&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The DevOps Handbook&lt;/b&gt;
+&lt;br&gt;
+How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+&lt;br&gt;
+By: John Willis,‎ Jez Humble,‎ Gene Kim,‎ Patrick Debois
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B0767N1MM2&#34; &gt;&lt;/iframe&gt;
+</description>
     </item>
     
     <item>
       <title>My 2016 Book List</title>
-      <link>https://mikejobrien.com/posts/2016/12-31-2016/</link>
+      <link>https://mikejobrien.com/post/2016/2016-12-31/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2016/12-31-2016/</guid>
-      <description>Books I read in 2016. The Phoenix ProjectA Novel About IT, DevOps, and Helping Your Business Win By: Gene Kim , Kevin Behr , George Spafford The Like SwitchAn Ex-FBI Agent&amp;rsquo;s Guide to Influencing, Attracting, and Winning People Over By: Jack Schafer , Marvin Karlins Team of TeamsNew Rules of Engagement for a Complex World By: General Stanley McChrystal , Tantum Collins , David Silverman , Chris Fussell The Essential Guide for Hiring &amp;amp; Getting HiredPerformance-based Hiring Series By: Lou Adler How to Win Friends &amp;amp; Influence PeopleBy: Dale Carnegie PresenceBringing Your Boldest Self to Your Biggest Challenges By: Amy Cuddy Site Reliability EngineeringHow Google Runs Production Systems By: Betsy Beyer,‎ Chris Jones,‎ Jennifer Petoff,‎ Niall Richard Murphy </description>
+      <guid>https://mikejobrien.com/post/2016/2016-12-31/</guid>
+      <description>&lt;h3 id=&#34;unordered-book-list&#34;&gt;Unordered book list&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;The Phoenix Project&lt;/b&gt;
+&lt;br&gt;
+A Novel About IT, DevOps, and Helping Your Business Win
+&lt;br&gt;
+By: Gene Kim , Kevin Behr , George Spafford
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00VATFAMI&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Like Switch&lt;/b&gt;
+&lt;br&gt;
+An Ex-FBI Agent&amp;rsquo;s Guide to Influencing, Attracting, and Winning People Over
+&lt;br&gt;
+By: Jack Schafer , Marvin Karlins
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00RKI81A6&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Team of Teams&lt;/b&gt;
+&lt;br&gt;
+New Rules of Engagement for a Complex World
+&lt;br&gt;
+By: General Stanley McChrystal , Tantum Collins , David Silverman , Chris Fussell
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00UVW4RV0&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;The Essential Guide for Hiring &amp;amp; Getting Hired&lt;/b&gt;
+&lt;br&gt;
+Performance-based Hiring Series
+&lt;br&gt;
+By: Lou Adler
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B00JEOHJZW&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;How to Win Friends &amp;amp; Influence People&lt;/b&gt;
+&lt;br&gt;
+By: Dale Carnegie
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B0006IU7JK&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Presence&lt;/b&gt;
+&lt;br&gt;
+Bringing Your Boldest Self to Your Biggest Challenges
+&lt;br&gt;
+By: Amy Cuddy
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=B01944W6L8&#34; &gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Site Reliability Engineering&lt;/b&gt;
+&lt;br&gt;
+How Google Runs Production Systems
+&lt;br&gt;
+By: Betsy Beyer,‎ Chris Jones,‎ Jennifer Petoff,‎ Niall Richard Murphy
+&lt;br&gt;&lt;/p&gt;
+&lt;iframe type=&#34;text/html&#34; width=&#34;336&#34; height=&#34;550&#34; frameborder=&#34;0&#34; allowfullscreen style=&#34;max-width:100%&#34; src=&#34;https://read.amazon.com/kp/card?asin=149192912X&#34; &gt;&lt;/iframe&gt;
+</description>
     </item>
     
   </channel>

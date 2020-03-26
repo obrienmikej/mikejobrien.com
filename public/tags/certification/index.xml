@@ -1,50 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>certification on Mike J. O&#39;Brien</title>
+    <title>certification | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/tags/certification/</link>
-    <description>Recent content in certification on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/tags/certification/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    <description>certification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Sat, 28 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>certification</title>
+      <link>https://mikejobrien.com/tags/certification/</link>
+    </image>
     
     <item>
       <title>Street Safety</title>
-      <link>https://mikejobrien.com/posts/2017/01-28-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-01-28/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/01-28-2017/</guid>
-      <description>Attended the California Rider education training course over the weekend in Alameda, CA. 17 hours of in class instruction and outdoor riding. Great time to refresh my skills on the bike.</description>
+      <guid>https://mikejobrien.com/post/2017/2017-01-28/</guid>
+      <description>&lt;p&gt;Attended the 
+&lt;a href=&#34;http://care2ride.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;California Rider education&lt;/a&gt; training course over the weekend in Alameda, CA. 17 hours of in class instruction and outdoor riding. Great time to refresh my skills on the bike.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>AWS Certified SysOps Administrator</title>
-      <link>https://mikejobrien.com/posts/2016/12-23-2016/</link>
+      <link>https://mikejobrien.com/post/2016/2016-12-23/</link>
       <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2016/12-23-2016/</guid>
-      <description>Passed the AWS Certified SysOps Administrator - Associate Level exam today. Certificate number 5917. </description>
+      <guid>https://mikejobrien.com/post/2016/2016-12-23/</guid>
+      <description>&lt;p&gt;Passed this exam today 
+&lt;a href=&#34;https://aws.amazon.com/certification/certified-sysops-admin-associate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Certified SysOps Administrator - Associate Level&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;aws_asoa_5917.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;
+</description>
     </item>
     
     <item>
       <title>AWS Certified Developer</title>
-      <link>https://mikejobrien.com/posts/2016/11-23-2016/</link>
+      <link>https://mikejobrien.com/post/2016/2016-11-23/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2016/11-23-2016/</guid>
-      <description>Passed the AWS Certified Developer - Associate Level exam today. Certificate number 6438. </description>
+      <guid>https://mikejobrien.com/post/2016/2016-11-23/</guid>
+      <description>&lt;p&gt;Passed this exam today 
+&lt;a href=&#34;https://aws.amazon.com/certification/certified-developer-associate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Certified Developer - Associate Level&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;aws_adev_6438.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;
+</description>
     </item>
     
     <item>
       <title>AWS Certified Solutions Architect</title>
-      <link>https://mikejobrien.com/posts/2016/10-28-2016/</link>
+      <link>https://mikejobrien.com/post/2016/2016-10-28/</link>
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2016/10-28-2016/</guid>
-      <description>Passed the AWS Certified Solutions Architect - Associate Level exam today. Certificate number 23200. </description>
+      <guid>https://mikejobrien.com/post/2016/2016-10-28/</guid>
+      <description>&lt;p&gt;Passed this exam today 
+&lt;a href=&#34;https://aws.amazon.com/certification/certified-solutions-architect-associate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Certified Solutions Architect - Associate Level&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;aws_asa_23200.png&#34; alt=&#34;AWS Certificate&#34; style=&#34;width:420px;height:315px;&#34;&gt;</description>
     </item>
     
   </channel>

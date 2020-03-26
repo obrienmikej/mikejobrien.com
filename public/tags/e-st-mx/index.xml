@@ -1,24 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>e st mx on Mike J. O&#39;Brien</title>
+    <title>e st mx | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/tags/e-st-mx/</link>
-    <description>Recent content in e st mx on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/tags/e-st-mx/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/tags/e-st-mx/index.xml" rel="self" type="application/rss+xml" />
+    <description>e st mx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>e st mx</title>
+      <link>https://mikejobrien.com/tags/e-st-mx/</link>
+    </image>
     
     <item>
       <title>Hangover Marathon</title>
-      <link>https://mikejobrien.com/posts/2019/12-29-2019/</link>
+      <link>https://mikejobrien.com/post/2019/2019-12-29/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2019/12-29-2019/</guid>
-      <description>Ariel view of race track E St MX in Marysville, CA.
-1st lap of race </description>
+      <guid>https://mikejobrien.com/post/2019/2019-12-29/</guid>
+      <description>&lt;p&gt;Ariel view of race track 
+&lt;a href=&#34;http://estreetmxpark.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E St MX&lt;/a&gt; in Marysville, CA.&lt;/p&gt;
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/20191228_DJI_0076.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;br&gt;
+&lt;p&gt;1st lap of race&lt;/p&gt;
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/20191229-GOPR0880-1.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;br&gt;
+</description>
     </item>
     
   </channel>

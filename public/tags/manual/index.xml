@@ -1,43 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>manual on Mike J. O&#39;Brien</title>
+    <title>manual | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/tags/manual/</link>
-    <description>Recent content in manual on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/tags/manual/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/tags/manual/index.xml" rel="self" type="application/rss+xml" />
+    <description>manual</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>manual</title>
+      <link>https://mikejobrien.com/tags/manual/</link>
+    </image>
     
     <item>
       <title>RockShox Boxxer Worldcup</title>
-      <link>https://mikejobrien.com/posts/2018/05-24-2018/</link>
+      <link>https://mikejobrien.com/post/2018/2018-05-24/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2018/05-24-2018/</guid>
-      <description>Documents Available for BoXXer World Cup Service Manual&amp;lt;embed src=&amp;rdquo;/pdf/rockshox_boxxer_wc_service_manual.pdf&amp;rdquo; width=&amp;quot;420&amp;quot; height=&amp;quot;315&amp;quot;&amp;gt;
-Tech Spec&amp;lt;embed src=&amp;rdquo;/pdf/rockshox_tech_spec.pdf&amp;rdquo; width=&amp;quot;420&amp;quot; height=&amp;quot;315&amp;quot;&amp;gt;</description>
+      <guid>https://mikejobrien.com/post/2018/2018-05-24/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.sram.com/rockshox/products/boxxer-world-cup#service&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RockShox BoXXer World Cup Product Description&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/rockshox_boxxer_wc_service_manual.pdf&#34;&gt;2015-2018 BoXXer World Cup Service Manual&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/rockshox_tech_spec.pdf&#34;&gt;RockShox 2018 Front Suspension Specifications&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Yamaha FJ09 Manual</title>
-      <link>https://mikejobrien.com/posts/2017/05-31-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-05-31/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/05-31-2017/</guid>
-      <description>Owner&amp;rsquo;s Manual&amp;lt;embed src=&amp;rdquo;/pdf/LIT-11626-30-57_588108f72a0ab7171c21edb6.pdf&amp;rdquo; width=&amp;quot;420&amp;quot; height=&amp;quot;315&amp;quot;&amp;gt;</description>
+      <guid>https://mikejobrien.com/post/2017/2017-05-31/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/LIT-11626-30-57_588108f72a0ab7171c21edb6.pdf&#34;&gt;2019 Owner&amp;rsquo;s Manual FJ09H, FJ09HC&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>KTM 450 SX-F Manuals</title>
-      <link>https://mikejobrien.com/posts/2017/04-05-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-04-05/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/04-05-2017/</guid>
-      <description>Owner&amp;rsquo;s Manual&amp;lt;embed src=&amp;rdquo;/pdf/dok_bike_bed_17_3213475_en_om__sen__aepi__v1.pdf&amp;rdquo; width=&amp;quot;420&amp;quot; height=&amp;quot;315&amp;quot;&amp;gt;
-Repair Manual&amp;lt;embed src=&amp;rdquo;/pdf/KTM_2016_450_SX_FandXC_F.pdf&amp;rdquo; width=&amp;quot;420&amp;quot; height=&amp;quot;315&amp;quot;&amp;gt;</description>
+      <guid>https://mikejobrien.com/post/2017/2017-04-05/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/dok_bike_bed_17_3213475_en_om__sen__aepi__v1.pdf&#34;&gt;Owner&amp;rsquo;s Manual 2017 450 SX-F, 450 XC-F&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/KTM_2016_450_SX_FandXC_F.pdf&#34;&gt;Repair Manual 2016 450 SX-F, 450 XC-F&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

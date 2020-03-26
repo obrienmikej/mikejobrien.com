@@ -1,24 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cal city mxx on Mike J. O&#39;Brien</title>
+    <title>cal city mxx | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/tags/cal-city-mxx/</link>
-    <description>Recent content in cal city mxx on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/tags/cal-city-mxx/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/tags/cal-city-mxx/index.xml" rel="self" type="application/rss+xml" />
+    <description>cal city mxx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>cal city mxx</title>
+      <link>https://mikejobrien.com/tags/cal-city-mxx/</link>
+    </image>
     
     <item>
       <title>Moto Road Trip</title>
-      <link>https://mikejobrien.com/posts/2017/11-16-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-11-16/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/11-16-2017/</guid>
-      <description>MX road trip. DT-1 MX Park in Tulare, CA.
-Cal City MX Park in California City, CA. </description>
+      <guid>https://mikejobrien.com/post/2017/2017-11-16/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.dt1mxpark.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DT-1 MX Park&lt;/a&gt; in Tulare, CA.&lt;/p&gt;
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobriengopro/20171116_GOPR0563.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;br&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.calcitymx.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cal City MX Park&lt;/a&gt; in California City, CA.&lt;/p&gt;
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobriengopro/20171118_GOPR0565.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;</description>
     </item>
     
   </channel>

@@ -1,23 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>diablo mx ranch on Mike J. O&#39;Brien</title>
+    <title>diablo mx ranch | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/tags/diablo-mx-ranch/</link>
-    <description>Recent content in diablo mx ranch on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/tags/diablo-mx-ranch/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/tags/diablo-mx-ranch/index.xml" rel="self" type="application/rss+xml" />
+    <description>diablo mx ranch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>diablo mx ranch</title>
+      <link>https://mikejobrien.com/tags/diablo-mx-ranch/</link>
+    </image>
     
     <item>
       <title>Diablo MX Ranch Practice</title>
-      <link>https://mikejobrien.com/posts/2017/11-25-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-11-25/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/11-25-2017/</guid>
-      <description>Practice at Diablo MX Ranch in Brentwood, CA.</description>
+      <guid>https://mikejobrien.com/post/2017/2017-11-25/</guid>
+      <description>&lt;p&gt;Practice at 
+&lt;a href=&#34;http://www.diablomxranch.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diablo MX Ranch&lt;/a&gt; in Brentwood, CA.&lt;/p&gt;
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobriengopro/20171125_GOPR0602.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;br&gt;
+&lt;video width=&#34;420&#34; height=&#34;315&#34; controls&gt;
+  &lt;source src=&#34;https://s3-us-west-1.amazonaws.com/mikejobriengopro/20171125_GOPR0603.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
     </item>
     
   </channel>

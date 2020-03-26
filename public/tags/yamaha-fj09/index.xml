@@ -1,23 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yamaha fj09 on Mike J. O&#39;Brien</title>
+    <title>yamaha fj09 | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/tags/yamaha-fj09/</link>
-    <description>Recent content in yamaha fj09 on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/tags/yamaha-fj09/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/tags/yamaha-fj09/index.xml" rel="self" type="application/rss+xml" />
+    <description>yamaha fj09</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Wed, 31 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>yamaha fj09</title>
+      <link>https://mikejobrien.com/tags/yamaha-fj09/</link>
+    </image>
     
     <item>
       <title>Yamaha FJ09 Manual</title>
-      <link>https://mikejobrien.com/posts/2017/05-31-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-05-31/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/05-31-2017/</guid>
-      <description>Owner&amp;rsquo;s Manual&amp;lt;embed src=&amp;rdquo;/pdf/LIT-11626-30-57_588108f72a0ab7171c21edb6.pdf&amp;rdquo; width=&amp;quot;420&amp;quot; height=&amp;quot;315&amp;quot;&amp;gt;</description>
+      <guid>https://mikejobrien.com/post/2017/2017-05-31/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://s3-us-west-1.amazonaws.com/mikejobrienmedia/LIT-11626-30-57_588108f72a0ab7171c21edb6.pdf&#34;&gt;2019 Owner&amp;rsquo;s Manual FJ09H, FJ09HC&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

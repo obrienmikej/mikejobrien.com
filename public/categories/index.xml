@@ -1,87 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mike J. O&#39;Brien</title>
+    <title>Categories | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/categories/</link>
-    <description>Recent content in Categories on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>motorcycle</title>
-      <link>https://mikejobrien.com/categories/motorcycle/</link>
-      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/motorcycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>literature</title>
-      <link>https://mikejobrien.com/categories/literature/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/literature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rv</title>
-      <link>https://mikejobrien.com/categories/rv/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/rv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bicycle</title>
-      <link>https://mikejobrien.com/categories/bicycle/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/bicycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>audio</title>
-      <link>https://mikejobrien.com/categories/audio/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/audio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ski</title>
-      <link>https://mikejobrien.com/categories/ski/</link>
-      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/ski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aws</title>
-      <link>https://mikejobrien.com/categories/aws/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>static site generator</title>
-      <link>https://mikejobrien.com/categories/static-site-generator/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/categories/static-site-generator/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://mikejobrien.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>Categories</title>
+      <link>https://mikejobrien.com/categories/</link>
+    </image>
     
   </channel>
 </rss>

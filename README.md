@@ -6,8 +6,9 @@ mikejobrien.com is located in ~hugo/mikejobrien.com
 
 ## remove local content
 1. run `rm -rf ~/hugo/mikejobrien.com/public`
+1. run `rm -rf ~/hugo/mikejobrien.com/resources`
 
-## generate new content
+## generate new resources
 1. run `cd ~/hugo/mikejobrien.com`
 2. run `hugo`
 

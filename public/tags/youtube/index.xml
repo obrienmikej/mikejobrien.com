@@ -1,23 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>youtube on Mike J. O&#39;Brien</title>
+    <title>youtube | Mike J. O&#39;Brien</title>
     <link>https://mikejobrien.com/tags/youtube/</link>
-    <description>Recent content in youtube on Mike J. O&#39;Brien</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mikejobrien.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mikejobrien.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <description>youtube</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>obrienmikej</copyright><lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mikejobrien.com/img/favicon.ico</url>
+      <title>youtube</title>
+      <link>https://mikejobrien.com/tags/youtube/</link>
+    </image>
     
     <item>
       <title>Configured HTTPS</title>
-      <link>https://mikejobrien.com/posts/2017/01-07-2017/</link>
+      <link>https://mikejobrien.com/post/2017/2017-01-07/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejobrien.com/posts/2017/01-07-2017/</guid>
-      <description>Configured my website to use https, not http. Leveraged CloudFront and Certificate Manager. Quick and easy setup. Detailed walkthrough from Simone Carletti. Redirecting a domain with HTTPS using Amazon S3 and CloudFront Quick and dirty AWS tutorial series video.   </description>
+      <guid>https://mikejobrien.com/post/2017/2017-01-07/</guid>
+      <description>&lt;p&gt;Detailed walkthrough from Simone Carletti.
+&lt;br&gt;
+
+&lt;a href=&#34;https://simonecarletti.com/blog/2016/08/redirect-domain-https-amazon-cloudfront&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Redirecting a domain with HTTPS using Amazon S3 and CloudFront&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+Quick and dirty AWS tutorial series video.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/5uS_rQjQ4Hw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>
