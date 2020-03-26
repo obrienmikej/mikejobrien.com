@@ -9,7 +9,6 @@ tags:
 ---
 
 Practice at [Club Moto](http://www.clubmoto.com) in Livermore, CA.
-
 {{< youtube jE333g9patk >}}
 <br>
 {{< youtube Iq-Vl6lUUlk >}}

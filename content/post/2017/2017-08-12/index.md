@@ -10,7 +10,4 @@ tags:
 ---
 
 Practice at [Club Moto](http://www.clubmoto.com) in Livermore, CA.
-
-<video width="420" height="315" controls>
-  <source src="https://s3-us-west-1.amazonaws.com/mikejobriengopro/20170812_GOPR0556.MP4" type="video/mp4">
-</video>
+{{< youtube XZMLRJJyADc >}}

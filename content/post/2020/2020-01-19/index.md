@@ -9,7 +9,4 @@ tags:
 ---
 
 Practice at [Riverfront MX Park](http://riverfrontmxpark.com) in Marysville, CA.  
-
-<video width="420" height="315" controls>
-  <source src="https://s3-us-west-1.amazonaws.com/mikejobrienmedia/20200119_GOPR0886-1.MP4" type="video/mp4">
-</video>
+{{< youtube VMuvU-nxG0E >}}

@@ -9,6 +9,7 @@ tags:
 image:
   caption: 'Image credit: [**stocksnap**](https://stocksnap.io/photo/C9E7B4U7QY)'
 ---
+
 ### Unordered book list
 
 <b>The Phoenix Project</b>

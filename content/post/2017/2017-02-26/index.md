@@ -9,5 +9,4 @@ tags:
 ---
 
 Fresh powder over night and snow everywhere at [DiamondPeak](http://www.diamondpeak.com/) in Incline Village, Nevada.
-
 {{< youtube -Xj-z_aPtIQ >}}
