@@ -21,6 +21,11 @@ mikejobrien.com is located in ~hugo/mikejobrien.com
 ## commit changes to S3
 1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read`
 
+## commit changes to github
+1. run `rm -rf ~/hugo/mikejobrien.com/public`
+2. run `rm -rf ~/hugo/mikejobrien.com/resources`
+3. commit to master and push commits to the origin remote
+
 ## sitemap
 1. Submit sitemap to Google using the Search Console [Sitemaps tool](https://search.google.com/search-console/sitemaps)
 2. click add/test sitemap
