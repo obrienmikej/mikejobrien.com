@@ -18,7 +18,7 @@ A Novel About IT, DevOps, and Helping Your Business Win
 <br>
 By: Gene Kim , Kevin Behr , George Spafford
 <br>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00VATFAMI" ></iframe>
+<iframe type="text/html" width="500" height="500" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/51Fi5Fq4u5L._SL500_.jpg" ></iframe>
 <br>
 
 <b>The Like Switch</b>
@@ -27,7 +27,7 @@ An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over
 <br>
 By: Jack Schafer , Marvin Karlins
 <br>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00RKI81A6" ></iframe>
+<iframe type="text/html" width="500" height="500" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/51AZQ5nHH8L._SL500_.jpg" ></iframe>
 <br>
 
 <b>Team of Teams</b>
@@ -36,7 +36,7 @@ New Rules of Engagement for a Complex World
 <br>
 By: General Stanley McChrystal , Tantum Collins , David Silverman , Chris Fussell
 <br>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00UVW4RV0" ></iframe>
+<iframe type="text/html" width="500" height="500" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/51-DGYCqHYL._SL500_.jpg" ></iframe>
 <br>
 
 <b>The Essential Guide for Hiring & Getting Hired</b>
@@ -45,14 +45,14 @@ Performance-based Hiring Series
 <br>
 By: Lou Adler
 <br>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00JEOHJZW" ></iframe>
+<iframe type="text/html" width="500" height="500" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/51HeTmNO8BL._SL500_.jpg" ></iframe>
 <br>
 
 <b>How to Win Friends & Influence People</b>
 <br>
 By: Dale Carnegie
 <br>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0006IU7JK" ></iframe>
+<iframe type="text/html" width="500" height="500" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/51PWIy1rHUL._SL500_.jpg" ></iframe>
 <br>
 
 <b>Presence</b>
@@ -61,7 +61,7 @@ Bringing Your Boldest Self to Your Biggest Challenges
 <br>
 By: Amy Cuddy
 <br>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01944W6L8" ></iframe>
+<iframe type="text/html" width="500" height="500" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/513vfLDEziL._SL500_.jpg" ></iframe>
 <br>
 
 <b>Site Reliability Engineering</b>
@@ -70,4 +70,4 @@ How Google Runs Production Systems
 <br>
 By: Betsy Beyer,‎ Chris Jones,‎ Jennifer Petoff,‎ Niall Richard Murphy
 <br>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=149192912X" ></iframe>
+<iframe type="text/html" width="500" height="500" frameborder="0" allowfullscreen style="max-width:100%" src="https://images-na.ssl-images-amazon.com/images/I/51XswOmuLqL._SX379_BO1,204,203,200_.jpg" ></iframe>

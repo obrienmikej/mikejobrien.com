@@ -107,8 +107,11 @@ tags:
   </tr>  
   <tr>
     <th>CRANKSET</th>
-    <td>Praxis forged M30, custom offset
-  RIMS	Roval Traverse 29, hookless alloy, 30mm width, hand-built, 2Bliss Ready</td>
+    <td>Praxis forged M30, custom offset</td>
+  </tr>
+  <tr>
+    <th>RIMS</th>  
+    <td>Roval Traverse 29, hookless alloy, 30mm width, hand-built, 2Bliss Ready</td>      
   </tr>
 </table>
 
