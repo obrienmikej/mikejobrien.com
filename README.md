@@ -12,14 +12,11 @@ to build locally on my mac, mikejobrien.com is located in ~github/mikejobrien.co
 1. run `cd ~/github/mikejobrien.com`
 2. run `hugo`
 
-## sync files to S3
-1. run `cd ~/github/mikejobrien.com/public`
+## verify changes using hugo deploy to push files to S3 and invalidate cdn
+1. run 'hugo deploy' -dryRun
 
-## verify changes before sync to S3
-1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read --dryrun`
-
-## commit changes to S3
-1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read`
+## commit changes using hugo deploy to push files to S3 and invalidate cdn
+2. run 'hugo deploy'
 
 ## commit changes to github
 1. run `rm -rf ~/github/mikejobrien.com/public`
@@ -41,3 +38,14 @@ What changed [hugo releases](https://github.com/gohugoio/hugo/releases)
 2. Run `brew upgrade hugo`
 3. Run `hugo version`
 4. Republish content by repeating all steps above
+
+## backup step to manually sync files to s3
+
+## sync files to S3
+1. run `cd ~/github/mikejobrien.com/public`
+
+## verify changes before sync to S3
+1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read --dryrun`
+
+## commit changes to S3
+1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read`
