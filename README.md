@@ -2,7 +2,7 @@
 - Steps to deploy the mikejobrien.com static website.
 
 ## deploy with github-actions
-1. on commit to master, new content will be deployed using github actions (details in .github/workflows/main.yaml)
+- on commit to master, new content will be deployed using github actions (details in .github/workflows/main.yaml)
 
 ## local prerequisites
 - hugo
