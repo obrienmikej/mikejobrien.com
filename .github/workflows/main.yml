@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+#build my site and deploy to deploy to S3
 
 name: Build and Deploy Hugo Site
 
