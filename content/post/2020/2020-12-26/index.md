@@ -10,7 +10,7 @@ thumbnail: "images/github-actions.png"
 ---
 
 # Overview
-- How I setup github-actions to deploy my hugo site to s3 on commit to github.
+How I setup github-actions to deploy my hugo site to s3 on commit to github.
 
 ## References
 - [Using GitHub Actions and Hugo Deploy to Deploy a Static Site to AWS](https://capgemini.github.io/development/Using-GitHub-Actions-and-Hugo-Deploy-to-Deploy-to-AWS)
@@ -20,7 +20,7 @@ thumbnail: "images/github-actions.png"
 1. added aws secrets to github
 2. setup new limited access in AWS
 - added new IAM user "githubcicd" and using access keys on this user
-- added new IAM policy, limited access to the s3 bucket hosting site and cloudfront distribution
+- added new IAM policy "GitHubActionsPolicy", limited access to s3,cloudfront
 3. added deployment config in config.toml
 - name
 - s3 url
