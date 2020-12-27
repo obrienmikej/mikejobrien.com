@@ -28,10 +28,10 @@ What changed [hugo releases](https://github.com/gohugoio/hugo/releases)
 2. run `hugo`
 
 ## verify changes using hugo deploy to push files to S3 and invalidate cdn
-1. run 'hugo deploy' -dryRun
+1. run `hugo deploy -dryRun`
 
 ## commit changes using hugo deploy to push files to S3 and invalidate cdn
-2. run 'hugo deploy'
+1. run `hugo deploy`
 
 ## commit changes to github
 1. run `rm -rf ~/github/mikejobrien.com/public`
