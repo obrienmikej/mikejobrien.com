@@ -6,6 +6,8 @@ categories:
 - motorcycle
 tags:
 - riverfront mx park
+- youtube
+thumbnail: "images/YouTube.png"
 ---
 
 Practice at [Riverfront MX Park](http://riverfrontmxpark.com) in Marysville, CA.  

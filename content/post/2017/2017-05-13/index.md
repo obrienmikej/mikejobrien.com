@@ -7,11 +7,14 @@ categories:
 tags:
 - club moto
 - othg
+- youtube
+thumbnail: "images/othg.jpg"
 ---
 
 [OTHG](http://bayothg.com) race at [Club Moto](http://www.clubmoto.com) in Livermore, CA.
+<br>
 moto 1
 {{< youtube XTKrWtx_4Ng >}}
 <br>
-moto2
+moto 2
 {{< youtube hvA07yRoOoY >}}

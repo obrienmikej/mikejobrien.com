@@ -6,6 +6,8 @@ categories:
 - ski
 tags:
 - sugarbowl
+- youtube
+thumbnail: "images/sugarbowl.png"
 ---
 
 Little windy at the peak, but so much snow at [SugarBowl](http://www.sugarbowl.com) in Lake Tahoe, CA.

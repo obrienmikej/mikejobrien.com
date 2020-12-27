@@ -6,6 +6,7 @@ categories:
 - rv
 tags:
 - manual
+thumbnail: "images/eeztire-t515.png"
 ---
 
-<a href="https://mikejobrienmedia.s3-us-west-1.amazonaws.com/eeztire_t515.pdf">Instruction Manual Model No: TM-515T22/SP</a>
+[CLICK HERE: Instruction Manual Model No: TM-515T22/SP](https://mikejobrienmedia.s3-us-west-1.amazonaws.com/eeztire_t515.pdf)

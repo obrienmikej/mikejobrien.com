@@ -5,7 +5,7 @@ date: 2020-10-13
 categories:
 - bicycle
 tags:
-- manual
+thumbnail: "images/taz-2000.png"
 ---
 
-<a href="https://mikejobrienmedia.s3-us-west-1.amazonaws.com/Taz_2000.pdf">Taz 2000 Headlight manual</a>
+[CLICK HERE: Taz 2000 Headlight manual](https://mikejobrienmedia.s3-us-west-1.amazonaws.com/Taz_2000.pdf)

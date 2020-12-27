@@ -6,39 +6,32 @@ categories:
 - audio
 tags:
 - podcast
-caption: 'Image credit: [**stocksnap**](https://stocksnap.io/photo/IQVHQYS3GL)'
+thumbnail: "images/stocksnap.io-H3V72OR6KN.jpg" #https://stocksnap.io/photo/H3V72OR6KN
 ---
 
 ### Unordered iTunes podcast library
 
-<b>[DevOps Cafe Podcast](https://itunes.apple.com/us/podcast/devops-cafe-podcast/id371931111)</b>
-<br>
-By: John Willis & Damon Edwards
-<br>
-
-<b>[Follow My Lead](https://itunes.apple.com/us/podcast/follow-my-lead-developing-leaders-tomorrow-john-eades/id1093687579)</b>
-<br>
-Developing the Leaders of Tomorrow with John Eades
-<br>
-By: John Eades
+[DevOps Cafe Podcast](https://itunes.apple.com/us/podcast/devops-cafe-podcast/id371931111)
+<br>By: John Willis & Damon Edwards
 <br>
 
-<b>[TedTalks Health](https://itunes.apple.com/us/podcast/tedtalks-health/id470623173)</b>
-<br>
-By: TED
-<br>
-
-<b>[TedTalks Business](https://itunes.apple.com/us/podcast/tedtalks-business/id470622782)</b>
-<br>
-By: TED
+[Follow My Lead](https://itunes.apple.com/us/podcast/follow-my-lead-developing-leaders-tomorrow-john-eades/id1093687579)
+<br>Developing the Leaders of Tomorrow with John Eades
+<br>By: John Eades
 <br>
 
-<b>[TedTalks Technology](https://itunes.apple.com/us/podcast/tedtalks-technology/id470624027)</b>
-<br>
-By: TED
+[TedTalks Health](https://itunes.apple.com/us/podcast/tedtalks-health/id470623173)
+<br>By: TED
 <br>
 
-<b>[The Cloudcast (.net) - Weekly Cloud Computing Podcast](https://itunes.apple.com/us/podcast/cloudcast-.net-weekly-cloud/id417826820)</b>
+[TedTalks Business](https://itunes.apple.com/us/podcast/tedtalks-business/id470622782)
+<br>By: TED
 <br>
-By: Aaron Delp & Brian Gracely
+
+[TedTalks Technology](https://itunes.apple.com/us/podcast/tedtalks-technology/id470624027)
+<br>By: TED
+<br>
+
+[The Cloudcast (.net) - Weekly Cloud Computing Podcast](https://itunes.apple.com/us/podcast/cloudcast-.net-weekly-cloud/id417826820)
+<br>By: Aaron Delp & Brian Gracely
 <br>

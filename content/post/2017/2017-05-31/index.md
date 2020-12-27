@@ -7,6 +7,7 @@ categories:
 tags:
 - yamaha fj09
 - manual
+thumbnail: "images/yamaha.png"
 ---
 
-<a href="https://s3-us-west-1.amazonaws.com/mikejobrienmedia/LIT-11626-30-57_588108f72a0ab7171c21edb6.pdf">2019 Owner's Manual FJ09H, FJ09HC</a>
+[CLICK HERE: 2019 Owner's Manual FJ09H, FJ09HC](https://mikejobrienmedia.s3-us-west-1.amazonaws.com/LIT-11626-30-57_588108f72a0ab7171c21edb6.pdf)

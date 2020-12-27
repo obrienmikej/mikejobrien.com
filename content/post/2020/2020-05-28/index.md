@@ -1,17 +1,18 @@
 ---
-title: 2020 Specalized Turbo Levo Expert Carbon
+title: 2020 Specialized Turbo Levo Expert Carbon
 summary: My bicycle
 date: 2020-05-28
 categories:
 - bicycle
 tags:
 - manual
+thumbnail: "images/turbo_levo.png"
 ---
 
-<a href="https://mikejobrienmedia.s3-us-west-1.amazonaws.com/MY19TurboLevoFSR_Tech_Service_Workbook_Retailer.pdf">Tubo Levo FSR Tech & Service Manual</a>
-
-<a href="https://mikejobrienmedia.s3-us-west-1.amazonaws.com/turbo_levo_user_manual_0000108696.pdf">Turbo Levo English User Manual</a>
-
+[CLICK HERE: Tubo Levo FSR Tech & Service Manual](https://mikejobrienmedia.s3-us-west-1.amazonaws.com/MY19TurboLevoFSR_Tech_Service_Workbook_Retailer.pdf)
+<br>
+[CLICK HERE: Turbo Levo English User Manual](https://mikejobrienmedia.s3-us-west-1.amazonaws.com/turbo_levo_user_manual_0000108696.pdf)
+<br>
 
 <h3>IDENTIFICATION</h3>
 <table>

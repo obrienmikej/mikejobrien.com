@@ -6,8 +6,7 @@ categories:
 - audio
 tags:
 - podcast
-image:
-  caption: 'Image credit: [**stocksnap**](https://stocksnap.io/photo/H3V72OR6KN)'
+thumbnail: "images/stocksnap.io-H3V72OR6KN.jpg" #https://stocksnap.io/photo/H3V72OR6KN
 ---
 
 ### Unordered iTunes podcast library

@@ -6,10 +6,9 @@ categories:
 - aws
 tags:
 - certification
-image:
-  caption: 'Image credit: [**stocksnap**](https://stocksnap.io/photo/L3VZ0CGUA1)'
+thumbnail: "images/AmazonWebservices_Logo.png"
 ---
 
 Passed this exam today [AWS Certified SysOps Administrator - Associate Level](https://aws.amazon.com/certification/certified-sysops-admin-associate/).
-
-<img src="aws_asoa_5917.png" alt="AWS Certificate" style="width:420px;height:315px;">
+<br>
+![:inline](/images/aws_asoa_5917.png)

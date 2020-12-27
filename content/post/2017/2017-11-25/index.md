@@ -6,6 +6,8 @@ categories:
 - motorcycle
 tags:
 - diablo mx ranch
+- youtube
+thumbnail: "images/YouTube.png"
 ---
 
 Practice at [Diablo MX Ranch](http://www.diablomxranch.com) in Brentwood, CA.

@@ -6,9 +6,12 @@ categories:
 - motorcycle
 tags:
 - club moto
+- youtube
+thumbnail: "images/YouTube.png"
 ---
 
 Practice at [Club Moto](http://www.clubmoto.com) in Livermore, CA.
+<br>
 {{< youtube jE333g9patk >}}
 <br>
 {{< youtube Iq-Vl6lUUlk >}}

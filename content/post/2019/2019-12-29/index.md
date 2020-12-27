@@ -6,6 +6,9 @@ categories:
 - motorcycle
 tags:
 - e st mx
+- othg
+- youtube
+thumbnail: "images/othg.jpg"
 ---
 
 Ariel view of race track [E St MX](http://estreetmxpark.com) in Marysville, CA.  

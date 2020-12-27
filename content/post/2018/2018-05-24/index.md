@@ -8,10 +8,9 @@ tags:
 - RockShox
 - Boxxer Worldcup
 - manual
+thumbnail: "images/rock-shox.png"
 ---
 
-[RockShox BoXXer World Cup Product Description](https://www.sram.com/rockshox/products/boxxer-world-cup#service)
+[CLICK HERE: 2015-2018 BoXXer World Cup Service Manual](https://mikejobrienmedia.s3-us-west-1.amazonaws.com/rockshox_boxxer_wc_service_manual.pdf)
 <br>
-<a href="https://s3-us-west-1.amazonaws.com/mikejobrienmedia/rockshox_boxxer_wc_service_manual.pdf">2015-2018 BoXXer World Cup Service Manual</a>
-<br>
-<a href="https://s3-us-west-1.amazonaws.com/mikejobrienmedia/rockshox_tech_spec.pdf">RockShox 2018 Front Suspension Specifications</a>
+[CLICK HERE: RockShox 2018 Front Suspension Specifications](https://mikejobrienmedia.s3-us-west-1.amazonaws.com/rockshox_tech_spec.pdf)

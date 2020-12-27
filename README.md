@@ -2,18 +2,18 @@
 Steps to deploy this static website to S3.
 
 ## prerequisites
-mikejobrien.com is located in ~hugo/mikejobrien.com
+mikejobrien.com is located in ~github/mikejobrien.com
 
 ## remove local content
-1. run `rm -rf ~/hugo/mikejobrien.com/public`
-1. run `rm -rf ~/hugo/mikejobrien.com/resources`
+1. run `rm -rf ~/github/mikejobrien.com/public`
+1. run `rm -rf ~/github/mikejobrien.com/resources`
 
 ## generate new resources
-1. run `cd ~/hugo/mikejobrien.com`
+1. run `cd ~/github/mikejobrien.com`
 2. run `hugo`
 
 ## sync files to S3
-1. run `cd ~/hugo/mikejobrien.com/public`
+1. run `cd ~/github/mikejobrien.com/public`
 
 ## verify changes before sync to S3
 1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read --dryrun`
@@ -22,8 +22,8 @@ mikejobrien.com is located in ~hugo/mikejobrien.com
 1. run `aws s3 sync . s3://mikejobrien.com --delete --acl public-read`
 
 ## commit changes to github
-1. run `rm -rf ~/hugo/mikejobrien.com/public`
-2. run `rm -rf ~/hugo/mikejobrien.com/resources`
+1. run `rm -rf ~/github/mikejobrien.com/public`
+2. run `rm -rf ~/github/mikejobrien.com/resources`
 3. commit to master and push commits to the origin remote
 
 ## sitemap
