@@ -1,14 +1,29 @@
 # Overview
-Steps to deploy this static website to S3.
+- Steps to deploy the mikejobrien.com static website.
 
-## prerequisites
-to build locally on my mac, mikejobrien.com is located in ~github/mikejobrien.com
+## deploy with github-actions
+1. on commit to master, new content will be deployed using github actions (details in .github/workflows/main.yaml)
 
-## remove local content
-1. run `rm -rf ~/github/mikejobrien.com/public`
-1. run `rm -rf ~/github/mikejobrien.com/resources`
+## local prerequisites
+- hugo
+- awscli
+- git
+- brew
 
-## generate new resources
+## local development
+- to build locally on my mac, mikejobrien.com is located in ~github/mikejobrien.com
+
+## start with current hugo version
+What changed [hugo releases](https://github.com/gohugoio/hugo/releases)
+1. Run `hugo version` #note version before
+2. Run `brew upgrade hugo`
+3. Run `hugo version` #note version after
+
+## clone source locallay
+1. Run 'cd ~/github'
+1. Run 'git clone https://github.com/obrienmikej/mikejobrien.com.git'
+
+## generate new resources after new content added (pages, images..)
 1. run `cd ~/github/mikejobrien.com`
 2. run `hugo`
 
@@ -20,8 +35,7 @@ to build locally on my mac, mikejobrien.com is located in ~github/mikejobrien.co
 
 ## commit changes to github
 1. run `rm -rf ~/github/mikejobrien.com/public`
-2. run `rm -rf ~/github/mikejobrien.com/resources`
-3. commit to master and push commits to the origin remote
+2. commit to master and push commits to the origin remote
 
 ## sitemap
 1. Submit sitemap to Google using the Search Console [Sitemaps tool](https://search.google.com/search-console/sitemaps)
@@ -32,14 +46,7 @@ to build locally on my mac, mikejobrien.com is located in ~github/mikejobrien.co
 1. Ask Google to recrawl your URLs [google crawl](https://search.google.com/search-console)
 2. fetch and render for desktop & smartphone
 
-## upgrade hugo version
-What changed [hugo releases](https://github.com/gohugoio/hugo/releases)
-1. Run `hugo version`
-2. Run `brew upgrade hugo`
-3. Run `hugo version`
-4. Republish content by repeating all steps above
-
-## backup step to manually sync files to s3
+## backup step to manually sync files to s3 locally
 
 ## sync files to S3
 1. run `cd ~/github/mikejobrien.com/public`
