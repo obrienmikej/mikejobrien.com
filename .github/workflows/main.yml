@@ -23,7 +23,7 @@ jobs:
 
     # Builds mikejobrien.com repo
     - name: Build
-      run: hugo
+      run: hugo --minify
 
     # Deploys built website to S3
     - name: Deploy to S3
