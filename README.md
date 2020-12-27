@@ -2,7 +2,7 @@
 Steps to deploy this static website to S3.
 
 ## prerequisites
-to build locally my mac, mikejobrien.com is located in ~github/mikejobrien.com
+to build locally on my mac, mikejobrien.com is located in ~github/mikejobrien.com
 
 ## remove local content
 1. run `rm -rf ~/github/mikejobrien.com/public`
