@@ -9,7 +9,7 @@ tags:
 thumbnail: "images/stocksnap.io-C9E7B4U7QY.jpg" #https://stocksnap.io/photo/C9E7B4U7QY
 ---
 
-### Unordered book list
+Unordered list of books I read during the year.
 
 [But What If We're Wrong?](https://www.amazon.com/But-What-If-Were-Wrong/dp/0399184139)
 <br>Thinking About the Present as If It Were the Past

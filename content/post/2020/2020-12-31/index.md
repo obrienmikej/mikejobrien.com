@@ -9,7 +9,7 @@ tags:
 thumbnail: "images/stocksnap.io-C9E7B4U7QY.jpg" #https://stocksnap.io/photo/C9E7B4U7QY
 ---
 
-### Unordered book list
+Unordered list of books I read during the year.
 
 [Sizing People Up](https://www.amazon.com/Sizing-People-Up-audiobook/dp/B07RFT4118)
 <br>A Veteran FBI Agent's User Manual for Behavior Prediction

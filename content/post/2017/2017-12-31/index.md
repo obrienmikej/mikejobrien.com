@@ -9,7 +9,7 @@ tags:
 thumbnail: "images/stocksnap.io-C9E7B4U7QY.jpg" #https://stocksnap.io/photo/C9E7B4U7QY
 ---
 
-### Unordered book list
+Unordered list of books I read during the year.
 
 [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
 <br>Negotiating as if Your Life Depended on It

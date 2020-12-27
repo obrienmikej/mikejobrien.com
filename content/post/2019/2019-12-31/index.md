@@ -9,7 +9,7 @@ tags:
 thumbnail: "images/stocksnap.io-C9E7B4U7QY.jpg" #https://stocksnap.io/photo/C9E7B4U7QY
 ---
 
-### Unordered book list
+Unordered list of books I read during the year.
 
 [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
 <br>What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!

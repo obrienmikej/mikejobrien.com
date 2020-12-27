@@ -9,7 +9,7 @@ tags:
 thumbnail: "images/stocksnap.io-C9E7B4U7QY.jpg" #https://stocksnap.io/photo/C9E7B4U7QY
 ---
 
-### Unordered book list
+Unordered list of books I read during the year.
 
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 <br>A Novel About IT, DevOps, and Helping Your Business Win
