@@ -10,7 +10,7 @@ thumbnail: "images/github-actions.png"
 ---
 
 # Overview
-How I setup github-actions to deploy [my site](https://mikejobrien.com) to s3 on commit to main. I was already using hugo, hosted S3 with route53, cloudfront and https. This post is specific to automated deployments.
+How I setup github-actions to deploy [my site](https://mikejobrien.com) to s3 on commit to main. I was already using hugo, hosted on S3 with route53, cloudfront and https. This post is specific to automated deployments.
 
 ## References
 - [Using GitHub Actions and Hugo Deploy to Deploy a Static Site to AWS](https://capgemini.github.io/development/Using-GitHub-Actions-and-Hugo-Deploy-to-Deploy-to-AWS)
