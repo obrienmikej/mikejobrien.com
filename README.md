@@ -27,8 +27,8 @@ What changed [hugo releases](https://github.com/gohugoio/hugo/releases)
 
 ## clone source locallay
 
-1. Run 'cd ~/github'
-1. Run 'git clone <https://github.com/obrienmikej/mikejobrien.com.git>'
+1. Run `cd ~/github`
+1. Run `git clone <https://github.com/obrienmikej/mikejobrien.com.git>`
 
 ## generate new resources after new content added (pages, images..)
 
