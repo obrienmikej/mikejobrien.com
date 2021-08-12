@@ -6,7 +6,7 @@ name: Build and Deploy Hugo Site
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   Build_and_Deploy:
