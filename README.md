@@ -6,6 +6,10 @@
 
 - on commit to master, new content will be deployed using github actions (details in .github/workflows/main.yaml)
 
+## update github-actions hugo version
+
+- update .github/workflows/main.yml and set hugo-version: 'x.xx.x' to version specified on [hugo/releases](https://github.com/gohugoio/hugo/releases)
+
 ## local prerequisites
 
 - hugo
