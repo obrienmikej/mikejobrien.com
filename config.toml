@@ -44,7 +44,7 @@ tag = "tags"
 author = "Mike O'Brien"
 twitter = "@obrienmikej"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Director Engineering, Cloud Infrastructure, and Quality leader in the San Francisco Bay Area. Quality and Customer Advocate. Motocross racer and enthusiast."
+introDescription = "Sr. Director of Engineering at [Flexport](https://www.flexport.com) in the San Francisco Bay Area. Quality and Customer Advocate. Motocross racer and enthusiast."
 # description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
 # Google analytics Id
