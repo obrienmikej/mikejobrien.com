@@ -4,7 +4,7 @@
 
 ## deploy with github-actions
 
-- on commit to master, new content will be deployed using github actions (details in .github/workflows/main.yaml)
+- on commit to main, new content will be deployed using github actions (details in .github/workflows/main.yaml)
 
 ## update github-actions hugo version
 
@@ -50,7 +50,7 @@ What changed [hugo releases](https://github.com/gohugoio/hugo/releases)
 ## commit changes to github
 
 1. run `rm -rf ~/github/mikejobrien.com/public`
-2. commit to master and push commits to the origin remote
+2. commit to main and push commits to the origin remote
 
 ## sitemap
 
