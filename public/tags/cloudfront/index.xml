@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloudfront on Mike J. O&#39;Brien</title>
+    <link>https://mikejobrien.com/tags/cloudfront/</link>
+    <description>Recent content in cloudfront on Mike J. O&#39;Brien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright obrienmikej and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://mikejobrien.com/tags/cloudfront/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configured HTTPS</title>
+      <link>https://mikejobrien.com/post/2017/2017-01-07/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejobrien.com/post/2017/2017-01-07/</guid>
+      <description>
+        
+          &lt;p&gt;Detailed walkthrough from Simone Carletti.
+&lt;br&gt;
+&lt;a href=&#34;https://simonecarletti.com/blog/2016/08/redirect-domain-https-amazon-cloudfront&#34;&gt;Redirecting a domain with HTTPS using Amazon S3 and CloudFront&lt;/a&gt;
+&lt;br&gt;
+Quick and dirty AWS tutorial series video.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/5uS_rQjQ4Hw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
