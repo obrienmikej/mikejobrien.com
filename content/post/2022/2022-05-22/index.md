@@ -5,7 +5,7 @@ date: 2022-05-22
 categories:
 - motorcycle
 tags:
-- Sea Otter Classic
+- Argyll MX
 - youtube
 thumbnail: "images/YouTube.png"
 ---
