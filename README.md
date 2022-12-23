@@ -1,3 +1,7 @@
+## Quick Links
+
+[![Build and Deploy Hugo Site](https://github.com/obrienmikej/mikejobrien.com/actions/workflows/main.yml/badge.svg)](https://github.com/obrienmikej/mikejobrien.com/actions/workflows/main.yml)
+
 # Overview
 
 - Steps to deploy the mikejobrien.com static website.
