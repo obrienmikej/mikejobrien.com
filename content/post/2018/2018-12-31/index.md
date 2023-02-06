@@ -3,13 +3,13 @@ title: My 2018 Book List
 summary: Books I read in 2018.
 date: 2018-12-31
 categories:
-- literature
+  - literature
 tags:
-- books
+  - books
 thumbnail: "images/stocksnap.io-C9E7B4U7QY.jpg" #https://stocksnap.io/photo/C9E7B4U7QY
 ---
 
-Unordered list of books I read during the year.
+Books I read during the year.
 
 [But What If We're Wrong?](https://www.amazon.com/But-What-If-Were-Wrong/dp/0399184139)
 <br>Thinking About the Present as If It Were the Past
@@ -77,6 +77,12 @@ The Power of Introverts in a World That Can't Stop Talking
 <br>![:inline](https://m.media-amazon.com/images/I/510Y57m6XJL._SL500_.jpg)
 <br>
 
+[The First 90 Days, Updated and Expanded](https://www.amazon.com/First-Days-Updated-Expanded-Strategies/dp/B00CH7FE1O)
+<br>Proven Strategies for Getting Up to Speed Faster and Smarter
+<br>By: Michael Watkins
+<br>![:inline](https://m.media-amazon.com/images/I/51XqmrgU-3L._SL500_.jpg)
+<br>
+
 [The Outsiders](https://www.amazon.com/Outsiders-Unconventional-Radically-Rational-Blueprint/dp/1422162672)
 <br>Eight Unconventional CEOs and Their Radically Rational Blueprint for Success
 <br>By: Patrick Lencioni
@@ -89,7 +95,7 @@ The Power of Introverts in a World That Can't Stop Talking
 <br>![:inline](https://m.media-amazon.com/images/I/41V9HNQcdzL._SL500_.jpg)
 <br>
 
-[The Subtle Art of Not Giving a F*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
+[The Subtle Art of Not Giving a F\*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 <br>A Counterintuitive Approach to Living a Good Life
 <br>By: Mark Manson
 <br>![:inline](https://m.media-amazon.com/images/I/51MT0MbpD7L._SL500_.jpg)
