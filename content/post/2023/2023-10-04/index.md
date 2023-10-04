@@ -11,7 +11,7 @@ thumbnail: "images/AmazonWebservices_Logo.png"
 
 # Overview
 
-I use [AWS Glacier](https://aws.amazon.com/pm/s3-glacier) to backup my [Synology Diskstation DS923+](https://www.synology.com/en-us/products/DS923+). The [Glacier Backup App](https://kb.synology.com/en-nz/DSM/help/GlacierBackup) from Synology makes it easy to backup the NAS. I switched NAS's and was left with a large number of glacier vaults.
+I use [AWS Glacier](https://aws.amazon.com/pm/s3-glacier) to backup my [Synology Diskstation DS923+](https://www.synology.com/en-us/products/DS923+). The [Glacier Backup App](https://kb.synology.com/en-nz/DSM/help/GlacierBackup/help?version=7) from Synology makes it easy to backup the NAS. I switched NAS's and was left with a large number of glacier vaults.
 
 The AWS console does not provide an easy way to delete vaults.
 
