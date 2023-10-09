@@ -28,6 +28,4 @@ My Vaults contain many Archives, 200k+, and it's not feasible to delete them one
 
 ## Assets
 There are lots of example scripts on the web, and I used them to create my script. I've included it here for reference.
-[veuncent/aws_glacier_delete_vault](https://gist.github.com/veuncent/ac21ae8131f24d3971a621fac0d95be5)
-
-
+[obrienmikej/aws-glacier](https://github.com/obrienmikej/aws-glacier)
