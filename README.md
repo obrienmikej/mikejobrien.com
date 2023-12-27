@@ -13,7 +13,7 @@
 
 ## update github-actions hugo version
 
-- update [Build and Deploy Site](https://github.com/obrienmikej/mikejobrien.com/actions/workflows/main.yml) and set hugo-version: 'x.xx.x' to version specified on [hugo/releases](https://github.com/gohugoio/hugo/releases)
+- update [main.yml](https://github.com/obrienmikej/mikejobrien.com/blob/main/.github/workflows/main.yml) and set hugo-version: 'x.xx.x' to version specified on [hugo/releases](https://github.com/gohugoio/hugo/releases)
 
 ## local prerequisites
 
