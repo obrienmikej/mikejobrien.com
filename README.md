@@ -8,11 +8,12 @@
 
 ## deploy with github-actions
 
-- on commit to main, new content will be deployed using github actions (details in .github/workflows/main.yaml)
+- on commit to main, new content will be deployed using [Github Actions](https://docs.github.com/en/actions) and the workflow [Build and Deploy Site](https://github.com/obrienmikej/mikejobrien.com/actions/workflows/main.yml)
+
 
 ## update github-actions hugo version
 
-- update .github/workflows/main.yml and set hugo-version: 'x.xx.x' to version specified on [hugo/releases](https://github.com/gohugoio/hugo/releases)
+- update [Build and Deploy Site](https://github.com/obrienmikej/mikejobrien.com/actions/workflows/main.yml) and set hugo-version: 'x.xx.x' to version specified on [hugo/releases](https://github.com/gohugoio/hugo/releases)
 
 ## local prerequisites
 
