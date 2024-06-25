@@ -1,5 +1,5 @@
 ---
-title: Sea Otter Classic eMTB race 2022
+title: Sea Otter Classic eMTB race 2024
 summary: Highlights and Full lap
 date: 2024-04-19
 categories:
